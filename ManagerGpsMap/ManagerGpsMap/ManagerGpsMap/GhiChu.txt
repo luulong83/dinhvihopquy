@@ -1,0 +1,2 @@
+﻿Tao file, load image sysn
+http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/
