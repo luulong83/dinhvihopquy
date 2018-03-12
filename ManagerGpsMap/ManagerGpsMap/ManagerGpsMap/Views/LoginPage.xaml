@@ -65,13 +65,13 @@
                 VerticalOptions="Center">
                 <Image
                     HeightRequest="50"
-                    Source="LogoUPS.png"
+                    Source="logocty.png"
                     VerticalOptions="Center" />
-                <Label
+                <!--<Label
                     FontSize="50"
                     Text="myUPS"
                     TextColor="{StaticResource primaryColor}"
-                    VerticalOptions="Center" />
+                    VerticalOptions="Center" />-->
             </StackLayout>
 
             <!--  Personal Information and Permission region  -->
@@ -87,6 +87,7 @@
                 <StackLayout Style="{StaticResource AccountStackLayoutStyle}">
                     <Image Source="IconHuman.png" Style="{StaticResource IconStyle}" />
                     <Entry
+                        x:Name="txtUsernameEnt"
                         AutomationId="UsernameEnt"
                         Placeholder="Fsoft Account"
                         Style="{StaticResource EntryStyle}"
@@ -97,6 +98,7 @@
                 <StackLayout Style="{StaticResource AccountStackLayoutStyle}">
                     <Image Source="IconLock.png" Style="{StaticResource IconStyle}" />
                     <Entry
+                        x:Name="txtPasswordEnt"
                         AutomationId="PasswordEnt"
                         IsPassword="True"
                         Placeholder="Password"
@@ -137,7 +139,8 @@
                         Text="Login"
                         TextColor="Black"
                         VerticalOptions="StartAndExpand"
-                        WidthRequest="300">
+                        WidthRequest="300"
+                        >
                         <!--<Button.HeightRequest>
                             <OnPlatform
                                 x:TypeArguments="x:Double"
@@ -168,7 +171,7 @@
                     VerticalOptions="Center" />
                 <Label
                     FontSize="11"
-                    Text="Copyright DTL.BU13 FPT Software 2017"
+                    Text="Copyright 2018"
                     TextColor="{StaticResource primaryColor}"
                     VerticalOptions="Center" />
             </StackLayout>

@@ -1,27 +1,26 @@
 ﻿using ManagerGpsMap.Common.Helpers;
+using ManagerGpsMap.Models;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using WcfServicedinhvi;
+using WcfServicedinhvi.Data;
 using WcfServicedinhvi.Models;
 
 namespace ManagerGpsMap.Services
 {
   public class AuthService: IAuthService {
-    private readonly IHttpClientHelper _httpClientHelper;
+    private readonly ISoapService _soapService;
 
-    public AuthService(IHttpClientHelper httpClientHelper) {
-      _httpClientHelper = httpClientHelper;
-    }
-
-    public async Task<AuthData> Login(JiraCredential jiraCredential) {
-      var loginApi = $"{AppConstant.BaseUrl}api/auth/login";
-
-      return await _httpClientHelper.PostAsync<JiraCredential, AuthData>(_httpClient, loginApi, jiraCredential);
+    public AuthService(ISoapService soapService) {
+      this._soapService = soapService;
     }
 
     public Task<login> Login(string username, string password) {
+
+      _soapService.Login(username,password);
       throw new NotImplementedException();
     }
   }
