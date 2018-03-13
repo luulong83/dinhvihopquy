@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Gps Map</AssemblyName>
-    <RootNamespace>Gps Map</RootNamespace>
+    <AssemblyName>ManagerGpsMap</AssemblyName>
+    <RootNamespace>ManagerGpsMap</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
-    <PackageReference Include="Xamarin.Forms" Version="2.5.0.122203" />
+    <PackageReference Include="Xamarin.Forms" Version="2.5.0.280555" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +18,9 @@
   <ItemGroup>
     <Compile Update="MasterDetailPage1MenuItem.cs">
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TheoDoiPage.xaml.cs">
+      <DependentUpon>TheoDoiPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
@@ -31,7 +34,10 @@
     <EmbeddedResource Update="Views\LoginPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\TheoDoi.xaml">
+    <EmbeddedResource Update="Views\TabbedBasePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\TheoDoiPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

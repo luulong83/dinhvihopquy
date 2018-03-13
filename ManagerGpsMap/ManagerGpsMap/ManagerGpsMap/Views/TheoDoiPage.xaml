@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ManagerGpsMap.Views.TheoDoiPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;
+                              assembly=ImageCircle.Forms.Plugin.Abstractions">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="TitleColor">#C2C3C9</Color>
+            <Color x:Key="ContentColor">Black</Color>
+            <Style x:Key="LabTitle" TargetType="Label">
+                <Setter Property="HorizontalTextAlignment" Value="End" />
+                <!--<Setter Property="TextColor" Value="{StaticResource TitleColor}" />-->
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="WidthRequest" Value="100" />
+            </Style>
+            <Style x:Key="LabContent" TargetType="Label">
+                <Setter Property="Margin" Value="10,0" />
+                <!--<Setter Property="TextColor" Value="{StaticResource ContentColor}" />-->
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+            <Style x:Key="CustomCell" TargetType="StackLayout">
+                <Setter Property="HorizontalOptions" Value="StartAndExpand" />
+                <Setter Property="Orientation" Value="Horizontal" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Label Text="Welcome to Xamarin Forms11111!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+
+</ContentPage>

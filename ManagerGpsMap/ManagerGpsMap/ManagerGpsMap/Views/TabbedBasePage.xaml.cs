@@ -7,14 +7,18 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace ManagerGpsMap.Views
-{
+namespace ManagerGpsMap.Views {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class AccountPage : ContentView
-	{
-		public AccountPage ()
+	public partial class TabbedBasePage : TabbedPage {
+		public TabbedBasePage ()
 		{
-			InitializeComponent ();
+      try {
+        InitializeComponent();
+      } catch(Exception ex) {
+
+        throw;
+      }
+			
 		}
 	}
 }

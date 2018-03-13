@@ -5,21 +5,24 @@ using Xamarin.Forms;
 
 namespace ManagerGpsMap
 {
-	public partial class App : Application
+	public partial class App 
 	{
+    private const string AppSecretiOs = "4b50fe94-26a3-4cf1-8d89-d8caaa51db49";
+    private const string AppSecretAndroid = "3d5d4a2b-123e-4288-ac21-226b9320b19a";
+    private const string AppSecretUWP = "6d9e24d2-c513-4f40-928f-95b5efd8059a";
 
-		public App ()
+    public App ()
 		{
 			InitializeComponent();
-
-
-            MainPage = new LoginPage();
-        }
+      MainPage = new LoginPage();
+      //MainPage = new NavigationPage(new MainPage());
+    }
 
 		protected override void OnStart ()
 		{
-			// Handle when your app starts
-		}
+      // Handle when your app starts
+     // MobileCenter.Start($"ios={AppSecretiOs};uwp={AppSecretUWP};android={AppSecretAndroid}", typeof(Analytics), typeof(Crashes));
+    }
 
 		protected override void OnSleep ()
 		{

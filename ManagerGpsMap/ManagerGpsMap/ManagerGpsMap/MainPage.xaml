@@ -1,87 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
-            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            xmlns:local="clr-namespace:ManagerGpsMap;assembly=TabbedPageWithNavigationPage"
-            x:Class="ManagerGpsMap.MainPage">
-    <local:TodayPage />
-    <NavigationPage Title="Schedule" Icon="schedule.png">
-        <x:Arguments>
-            <local:SchedulePage />
-        </x:Arguments>
-    </NavigationPage>
-</TabbedPage>
-    
-<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-              xmlns:local="clr-namespace:ManagerGpsMap"
+             xmlns:pages="clr-namespace:ManagerGpsMap.Views;assembly=ManagerGpsMap"
              x:Class="ManagerGpsMap.MainPage">
-    <MasterDetailPage.Master>
-        <!--<ContentPage Title="Menu"
-                 BackgroundColor="#e8e8e8">
-
-            <StackLayout Orientation="Vertical">
-
-                --><!-- 
-             This StackLayout you can use for other
-             data that you want to have in your menu drawer
-        --><!--
-                <StackLayout.Children >
-                    <Label Text="{Binding Header}" />
-
-                    <Image Source="{Binding Image}" Aspect="Fill" />
-
-                    <Label Text="{Binding Footer}" />
-                </StackLayout.Children>
-
-                <ListView x:Name="navigationDrawerList"
-                  RowHeight="55"
-                  SeparatorVisibility="Default"
-                  BackgroundColor="#e8e8e8"
-                  ItemSelected="OnMenuIte2mSelected">
-
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-
-                                --><!-- Main design for our menu items --><!--
-                                <StackLayout VerticalOptions="FillAndExpand"
-                             Orientation="Horizontal"
-                             Padding="20,10,0,10"
-                             Spacing="20">
-
-                                    <Image Source="{Binding Icon}"
-                         WidthRequest="40"
-                         HeightRequest="40"
-                         VerticalOptions="Start" />
-
-                                    <Label Text="{Binding Title}"
-                         FontSize="Small"
-                         VerticalOptions="End"
-                         TextColor="Black"/>
-                                </StackLayout>
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-
-            </StackLayout>
-
-        </ContentPage>-->
-
-        <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-                     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-                     x:Class="ManagerGpsMap.MainPage" Title="Samples">
-            <StackLayout>
-                <Button Text="SearchPage Sample" VerticalOptions="Center"/>
-            </StackLayout>
-        </ContentPage>
-
-    </MasterDetailPage.Master>
-    <MasterDetailPage.Detail>
-        <NavigationPage>
-
-        </NavigationPage>
-    </MasterDetailPage.Detail>
-
-</MasterDetailPage>
+    <TabbedPage.Children>
+        <pages:TheoDoiPage Icon="ic_about" />
+        <pages:TheoDoiPage Icon="ic_contact" />
+    </TabbedPage.Children>
+</TabbedPage>

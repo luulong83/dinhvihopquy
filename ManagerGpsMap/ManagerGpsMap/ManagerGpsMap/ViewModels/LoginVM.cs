@@ -1,5 +1,6 @@
 ﻿using ManagerGpsMap.Common.Helpers;
 using ManagerGpsMap.Services;
+using ManagerGpsMap.Views;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +10,7 @@ using WcfServicedinhvi.Models;
 using Xamarin.Forms;
 
 namespace ManagerGpsMap.ViewModels {
-  public class loginVM: BaseViewModel {
+  public class LoginVM: BaseViewModel {
     private readonly IPageHelper _pageHelper;
     private readonly IAuthService _authService;
 
@@ -33,7 +34,7 @@ namespace ManagerGpsMap.ViewModels {
 
     public ICommand LoginCommand { get; set; }
 
-    public loginVM(IPageHelper pageHelper, IAuthService authService) {
+    public LoginVM(IPageHelper pageHelper, IAuthService authService) {
       _pageHelper = pageHelper;
       _authService = authService;
       LoginCommand = new Command(async vm => await Login());
@@ -41,24 +42,24 @@ namespace ManagerGpsMap.ViewModels {
     private async Task Login() {
       IsLoading = true;
 
-      login authData;
+      
       try {
-        authData = await _authService.Login(new JiraCredential(_userName, _password));
+       // authData = await _authService.Login(new JiraCredential(_userName, _password));
       } catch(Exception e) {
         await _pageHelper.DisplayAlert("Login Error", e.Message, "OK");
         IsLoading = false;
         return;
       }
 
-      if(authData != null) {
-        await _jiraCredentialHelper.StoreCredential(_userName, authData.Token);
+      //if(authData != null) {
+       // await _jiraCredentialHelper.StoreCredential(_userName, authData.Token);
 
-        await _pageHelper.PushAsync(new TabbedBasePage());
+      await _pageHelper.PushAsync(new MainPage());
 
-        return;
-      }
+       return;
+     // }
 
-      IsLoading = false;
+      //IsLoading = false;
       await _pageHelper.DisplayAlert("Login Error", "Login failed", "OK");
     }
   }

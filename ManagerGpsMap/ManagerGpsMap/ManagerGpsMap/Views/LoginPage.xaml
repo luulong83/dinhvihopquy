@@ -65,13 +65,13 @@
                 VerticalOptions="Center">
                 <Image
                     HeightRequest="50"
-                    Source="logocty.png"
+                    Source="LogoUPS.png"
                     VerticalOptions="Center" />
-                <!--<Label
+                <Label
                     FontSize="50"
                     Text="myUPS"
                     TextColor="{StaticResource primaryColor}"
-                    VerticalOptions="Center" />-->
+                    VerticalOptions="Center" />
             </StackLayout>
 
             <!--  Personal Information and Permission region  -->
@@ -171,7 +171,7 @@
                     VerticalOptions="Center" />
                 <Label
                     FontSize="11"
-                    Text="Copyright 2018"
+                    Text="Copyright DTL.BU13 FPT Software 2017"
                     TextColor="{StaticResource primaryColor}"
                     VerticalOptions="Center" />
             </StackLayout>
@@ -179,5 +179,5 @@
 
         <ActivityIndicator IsRunning="{Binding IsLoading}" Style="{StaticResource indicator}" />
     </AbsoluteLayout>
-    
+
 </ContentPage>
