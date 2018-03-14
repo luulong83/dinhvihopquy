@@ -18,6 +18,9 @@ namespace ManagerGpsMap.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(bundle);
+            DevExpress.Mobile.Forms.Init();
+
+
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());

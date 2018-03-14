@@ -41,6 +41,14 @@
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Mobile.Core.Android.v17.1, Version=17.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.Mobile.Core.Android.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Mobile.Grid.Android.v17.1, Version=17.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.Mobile.Grid.Android.v17.1.dll</HintPath>
+    </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -1752,6 +1752,3340 @@ namespace ManagerGpsMap.Droid
 			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_fade_in = global::ManagerGpsMap.Droid.Resource.Animation.abc_fade_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_fade_out = global::ManagerGpsMap.Droid.Resource.Animation.abc_fade_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_popup_enter = global::ManagerGpsMap.Droid.Resource.Animation.abc_popup_enter;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_popup_exit = global::ManagerGpsMap.Droid.Resource.Animation.abc_popup_exit;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_in_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_in_top = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_in_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_out_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_out_top = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_out_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_bottom_sheet_slide_in = global::ManagerGpsMap.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_bottom_sheet_slide_out = global::ManagerGpsMap.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_fab_in = global::ManagerGpsMap.Droid.Resource.Animation.design_fab_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_fab_out = global::ManagerGpsMap.Droid.Resource.Animation.design_fab_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_snackbar_in = global::ManagerGpsMap.Droid.Resource.Animation.design_snackbar_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_snackbar_out = global::ManagerGpsMap.Droid.Resource.Animation.design_snackbar_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarDivider = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarItemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarPopupTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarSize = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarSplitStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarWidgetTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionDropDownStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionDropDownStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionLayout = global::ManagerGpsMap.Droid.Resource.Attribute.actionLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionMenuTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionMenuTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.actionMenuTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCloseButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCloseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCopyDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCutDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeFindDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModePasteDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModePopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeSelectAllDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeShareDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeSplitBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeWebSearchDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionOverflowButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionOverflowMenuStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionProviderClass = global::ManagerGpsMap.Droid.Resource.Attribute.actionProviderClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionViewClass = global::ManagerGpsMap.Droid.Resource.Attribute.actionViewClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.activityChooserViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogCenterButtons = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogStyle = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.allowStacking = global::ManagerGpsMap.Droid.Resource.Attribute.allowStacking;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.arrowHeadLength = global::ManagerGpsMap.Droid.Resource.Attribute.arrowHeadLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.arrowShaftLength = global::ManagerGpsMap.Droid.Resource.Attribute.arrowShaftLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.autoCompleteTextViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.background = global::ManagerGpsMap.Droid.Resource.Attribute.background;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundSplit = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundStacked = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundStacked;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundTint = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.barLength = global::ManagerGpsMap.Droid.Resource.Attribute.barLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_hideable = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_hideable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_overlapTop = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_overlapTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_peekHeight = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_peekHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.borderWidth = global::ManagerGpsMap.Droid.Resource.Attribute.borderWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.borderlessButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.bottomSheetDialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.bottomSheetStyle = global::ManagerGpsMap.Droid.Resource.Attribute.bottomSheetStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonPanelSideLayout = global::ManagerGpsMap.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonStyleSmall = global::ManagerGpsMap.Droid.Resource.Attribute.buttonStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonTint = global::ManagerGpsMap.Droid.Resource.Attribute.buttonTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonTintMode = global::ManagerGpsMap.Droid.Resource.Attribute.buttonTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardBackgroundColor = global::ManagerGpsMap.Droid.Resource.Attribute.cardBackgroundColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardCornerRadius = global::ManagerGpsMap.Droid.Resource.Attribute.cardCornerRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardElevation = global::ManagerGpsMap.Droid.Resource.Attribute.cardElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardMaxElevation = global::ManagerGpsMap.Droid.Resource.Attribute.cardMaxElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardPreventCornerOverlap = global::ManagerGpsMap.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardUseCompatPadding = global::ManagerGpsMap.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.checkboxStyle = global::ManagerGpsMap.Droid.Resource.Attribute.checkboxStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.checkedTextViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.closeIcon = global::ManagerGpsMap.Droid.Resource.Attribute.closeIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.closeItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.closeItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapseContentDescription = global::ManagerGpsMap.Droid.Resource.Attribute.collapseContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapseIcon = global::ManagerGpsMap.Droid.Resource.Attribute.collapseIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapsedTitleGravity = global::ManagerGpsMap.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapsedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.color = global::ManagerGpsMap.Droid.Resource.Attribute.color;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorAccent = global::ManagerGpsMap.Droid.Resource.Attribute.colorAccent;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorButtonNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorButtonNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlActivated = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlActivated;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlHighlight = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlHighlight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorPrimary = global::ManagerGpsMap.Droid.Resource.Attribute.colorPrimary;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorPrimaryDark = global::ManagerGpsMap.Droid.Resource.Attribute.colorPrimaryDark;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorSwitchThumbNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.commitIcon = global::ManagerGpsMap.Droid.Resource.Attribute.commitIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetRight = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetStart = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPadding = global::ManagerGpsMap.Droid.Resource.Attribute.contentPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingBottom = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingLeft = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingRight = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingTop = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentScrim = global::ManagerGpsMap.Droid.Resource.Attribute.contentScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.controlBackground = global::ManagerGpsMap.Droid.Resource.Attribute.controlBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.counterEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterMaxLength = global::ManagerGpsMap.Droid.Resource.Attribute.counterMaxLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterOverflowTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.counterTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.customNavigationLayout = global::ManagerGpsMap.Droid.Resource.Attribute.customNavigationLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.defaultQueryHint = global::ManagerGpsMap.Droid.Resource.Attribute.defaultQueryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dialogPreferredPadding = global::ManagerGpsMap.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.dialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.displayOptions = global::ManagerGpsMap.Droid.Resource.Attribute.displayOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.divider = global::ManagerGpsMap.Droid.Resource.Attribute.divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerHorizontal = global::ManagerGpsMap.Droid.Resource.Attribute.dividerHorizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerPadding = global::ManagerGpsMap.Droid.Resource.Attribute.dividerPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerVertical = global::ManagerGpsMap.Droid.Resource.Attribute.dividerVertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.drawableSize = global::ManagerGpsMap.Droid.Resource.Attribute.drawableSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.drawerArrowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.drawerArrowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dropDownListViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextBackground = global::ManagerGpsMap.Droid.Resource.Attribute.editTextBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.editTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.editTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.elevation = global::ManagerGpsMap.Droid.Resource.Attribute.elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.errorEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.errorEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.errorTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.errorTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expanded = global::ManagerGpsMap.Droid.Resource.Attribute.expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleGravity = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMargin = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMargin;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginBottom = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginEnd = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginStart = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginTop = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.externalRouteEnabledDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.fabSize = global::ManagerGpsMap.Droid.Resource.Attribute.fabSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.foregroundInsidePadding = global::ManagerGpsMap.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.gapBetweenBars = global::ManagerGpsMap.Droid.Resource.Attribute.gapBetweenBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.goIcon = global::ManagerGpsMap.Droid.Resource.Attribute.goIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.headerLayout = global::ManagerGpsMap.Droid.Resource.Attribute.headerLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.height = global::ManagerGpsMap.Droid.Resource.Attribute.height;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hideOnContentScroll = global::ManagerGpsMap.Droid.Resource.Attribute.hideOnContentScroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintAnimationEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.hintEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.hintTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.homeLayout = global::ManagerGpsMap.Droid.Resource.Attribute.homeLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.icon = global::ManagerGpsMap.Droid.Resource.Attribute.icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.iconifiedByDefault = global::ManagerGpsMap.Droid.Resource.Attribute.iconifiedByDefault;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.imageButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.imageButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.indeterminateProgressStyle = global::ManagerGpsMap.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.initialActivityCount = global::ManagerGpsMap.Droid.Resource.Attribute.initialActivityCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.insetForeground = global::ManagerGpsMap.Droid.Resource.Attribute.insetForeground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.isLightTheme = global::ManagerGpsMap.Droid.Resource.Attribute.isLightTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemIconTint = global::ManagerGpsMap.Droid.Resource.Attribute.itemIconTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemPadding = global::ManagerGpsMap.Droid.Resource.Attribute.itemPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.itemTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.keylines = global::ManagerGpsMap.Droid.Resource.Attribute.keylines;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout = global::ManagerGpsMap.Droid.Resource.Attribute.layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layoutManager = global::ManagerGpsMap.Droid.Resource.Attribute.layoutManager;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_anchor = global::ManagerGpsMap.Droid.Resource.Attribute.layout_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_anchorGravity = global::ManagerGpsMap.Droid.Resource.Attribute.layout_anchorGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_behavior = global::ManagerGpsMap.Droid.Resource.Attribute.layout_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_collapseMode = global::ManagerGpsMap.Droid.Resource.Attribute.layout_collapseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::ManagerGpsMap.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_keyline = global::ManagerGpsMap.Droid.Resource.Attribute.layout_keyline;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_scrollFlags = global::ManagerGpsMap.Droid.Resource.Attribute.layout_scrollFlags;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_scrollInterpolator = global::ManagerGpsMap.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listDividerAlertDialog = global::ManagerGpsMap.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.listItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listLayout = global::ManagerGpsMap.Droid.Resource.Attribute.listLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeightLarge = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeightSmall = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemPaddingRight = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.logo = global::ManagerGpsMap.Droid.Resource.Attribute.logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.logoDescription = global::ManagerGpsMap.Droid.Resource.Attribute.logoDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.maxActionInlineWidth = global::ManagerGpsMap.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.maxButtonHeight = global::ManagerGpsMap.Droid.Resource.Attribute.maxButtonHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.measureWithLargestChild = global::ManagerGpsMap.Droid.Resource.Attribute.measureWithLargestChild;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteCloseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRoutePauseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRoutePlayDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.menu = global::ManagerGpsMap.Droid.Resource.Attribute.menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.multiChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationContentDescription = global::ManagerGpsMap.Droid.Resource.Attribute.navigationContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationIcon = global::ManagerGpsMap.Droid.Resource.Attribute.navigationIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationMode = global::ManagerGpsMap.Droid.Resource.Attribute.navigationMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.overlapAnchor = global::ManagerGpsMap.Droid.Resource.Attribute.overlapAnchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.paddingEnd = global::ManagerGpsMap.Droid.Resource.Attribute.paddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.paddingStart = global::ManagerGpsMap.Droid.Resource.Attribute.paddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelBackground = global::ManagerGpsMap.Droid.Resource.Attribute.panelBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelMenuListTheme = global::ManagerGpsMap.Droid.Resource.Attribute.panelMenuListTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelMenuListWidth = global::ManagerGpsMap.Droid.Resource.Attribute.panelMenuListWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupMenuStyle = global::ManagerGpsMap.Droid.Resource.Attribute.popupMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupTheme = global::ManagerGpsMap.Droid.Resource.Attribute.popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.popupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.preserveIconSpacing = global::ManagerGpsMap.Droid.Resource.Attribute.preserveIconSpacing;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.pressedTranslationZ = global::ManagerGpsMap.Droid.Resource.Attribute.pressedTranslationZ;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.progressBarPadding = global::ManagerGpsMap.Droid.Resource.Attribute.progressBarPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.progressBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.progressBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.queryBackground = global::ManagerGpsMap.Droid.Resource.Attribute.queryBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.queryHint = global::ManagerGpsMap.Droid.Resource.Attribute.queryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.radioButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.radioButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyleIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyleSmall = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.reverseLayout = global::ManagerGpsMap.Droid.Resource.Attribute.reverseLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.rippleColor = global::ManagerGpsMap.Droid.Resource.Attribute.rippleColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchHintIcon = global::ManagerGpsMap.Droid.Resource.Attribute.searchHintIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchIcon = global::ManagerGpsMap.Droid.Resource.Attribute.searchIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.searchViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.seekBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.seekBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.selectableItemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.selectableItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::ManagerGpsMap.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showAsAction = global::ManagerGpsMap.Droid.Resource.Attribute.showAsAction;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showDividers = global::ManagerGpsMap.Droid.Resource.Attribute.showDividers;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showText = global::ManagerGpsMap.Droid.Resource.Attribute.showText;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.singleChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spanCount = global::ManagerGpsMap.Droid.Resource.Attribute.spanCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinBars = global::ManagerGpsMap.Droid.Resource.Attribute.spinBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinnerDropDownItemStyle = global::ManagerGpsMap.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinnerStyle = global::ManagerGpsMap.Droid.Resource.Attribute.spinnerStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.splitTrack = global::ManagerGpsMap.Droid.Resource.Attribute.splitTrack;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.srcCompat = global::ManagerGpsMap.Droid.Resource.Attribute.srcCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.stackFromEnd = global::ManagerGpsMap.Droid.Resource.Attribute.stackFromEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.state_above_anchor = global::ManagerGpsMap.Droid.Resource.Attribute.state_above_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.statusBarBackground = global::ManagerGpsMap.Droid.Resource.Attribute.statusBarBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.statusBarScrim = global::ManagerGpsMap.Droid.Resource.Attribute.statusBarScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.submitBackground = global::ManagerGpsMap.Droid.Resource.Attribute.submitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitle = global::ManagerGpsMap.Droid.Resource.Attribute.subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.suggestionRowLayout = global::ManagerGpsMap.Droid.Resource.Attribute.suggestionRowLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchMinWidth = global::ManagerGpsMap.Droid.Resource.Attribute.switchMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchPadding = global::ManagerGpsMap.Droid.Resource.Attribute.switchPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchStyle = global::ManagerGpsMap.Droid.Resource.Attribute.switchStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.switchTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabBackground = global::ManagerGpsMap.Droid.Resource.Attribute.tabBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabContentStart = global::ManagerGpsMap.Droid.Resource.Attribute.tabContentStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabGravity = global::ManagerGpsMap.Droid.Resource.Attribute.tabGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabIndicatorColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabIndicatorColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabIndicatorHeight = global::ManagerGpsMap.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMaxWidth = global::ManagerGpsMap.Droid.Resource.Attribute.tabMaxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMinWidth = global::ManagerGpsMap.Droid.Resource.Attribute.tabMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMode = global::ManagerGpsMap.Droid.Resource.Attribute.tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPadding = global::ManagerGpsMap.Droid.Resource.Attribute.tabPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingBottom = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingEnd = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingStart = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingTop = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabSelectedTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.tabTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAllCaps = global::ManagerGpsMap.Droid.Resource.Attribute.textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceListItem = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceListItemSmall = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorAlertDialogListItem = global::ManagerGpsMap.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorError = global::ManagerGpsMap.Droid.Resource.Attribute.textColorError;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorSearchUrl = global::ManagerGpsMap.Droid.Resource.Attribute.textColorSearchUrl;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.theme = global::ManagerGpsMap.Droid.Resource.Attribute.theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.thickness = global::ManagerGpsMap.Droid.Resource.Attribute.thickness;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.thumbTextPadding = global::ManagerGpsMap.Droid.Resource.Attribute.thumbTextPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.title = global::ManagerGpsMap.Droid.Resource.Attribute.title;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.titleEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginBottom = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginEnd = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginStart = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginTop = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMargins = global::ManagerGpsMap.Droid.Resource.Attribute.titleMargins;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarId = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarId;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.track = global::ManagerGpsMap.Droid.Resource.Attribute.track;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.useCompatPadding = global::ManagerGpsMap.Droid.Resource.Attribute.useCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.voiceIcon = global::ManagerGpsMap.Droid.Resource.Attribute.voiceIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionBar = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionBarOverlay = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionModeOverlay = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedHeightMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedHeightMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedWidthMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedWidthMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowMinWidthMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowMinWidthMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowNoTitle = global::ManagerGpsMap.Droid.Resource.Attribute.windowNoTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::ManagerGpsMap.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::ManagerGpsMap.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_color_highlight_material = global::ManagerGpsMap.Droid.Resource.Color.abc_color_highlight_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_input_method_navigation_guard = global::ManagerGpsMap.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_normal = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_pressed = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_selected = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_selected;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_secondary_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_secondary_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.accent_material_dark = global::ManagerGpsMap.Droid.Resource.Color.accent_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.accent_material_light = global::ManagerGpsMap.Droid.Resource.Color.accent_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_floating_material_dark = global::ManagerGpsMap.Droid.Resource.Color.background_floating_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_floating_material_light = global::ManagerGpsMap.Droid.Resource.Color.background_floating_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_material_dark = global::ManagerGpsMap.Droid.Resource.Color.background_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_material_light = global::ManagerGpsMap.Droid.Resource.Color.background_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_inverse_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_inverse_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.button_material_dark = global::ManagerGpsMap.Droid.Resource.Color.button_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.button_material_light = global::ManagerGpsMap.Droid.Resource.Color.button_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_dark_background = global::ManagerGpsMap.Droid.Resource.Color.cardview_dark_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_light_background = global::ManagerGpsMap.Droid.Resource.Color.cardview_light_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_shadow_end_color = global::ManagerGpsMap.Droid.Resource.Color.cardview_shadow_end_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_shadow_start_color = global::ManagerGpsMap.Droid.Resource.Color.cardview_shadow_start_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_end_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_mid_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_start_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_end_inner_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_end_outer_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_top_inner_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_top_outer_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_snackbar_background_color = global::ManagerGpsMap.Droid.Resource.Color.design_snackbar_background_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_textinput_error_color_dark = global::ManagerGpsMap.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_textinput_error_color_light = global::ManagerGpsMap.Droid.Resource.Color.design_textinput_error_color_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.highlighted_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.highlighted_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.highlighted_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.highlighted_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_800 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_800;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_900 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_900;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_950 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_950;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_deep_teal_200 = global::ManagerGpsMap.Droid.Resource.Color.material_deep_teal_200;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_deep_teal_500 = global::ManagerGpsMap.Droid.Resource.Color.material_deep_teal_500;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_100 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_100;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_300 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_300;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_50 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_50;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_600 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_600;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_800 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_800;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_850 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_850;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_900 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_900;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_dark_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_dark_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_dark_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_dark_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_default_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_text_default_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_default_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_text_default_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.ripple_material_dark = global::ManagerGpsMap.Droid.Resource.Color.ripple_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.ripple_material_light = global::ManagerGpsMap.Droid.Resource.Color.ripple_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_default_material_dark = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_default_material_light = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_default_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_normal_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_normal_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_width_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ManagerGpsMap.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_inset_vertical_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_padding_vertical_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_config_prefDialogWidth = global::ManagerGpsMap.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_corner_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_corner_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_inset_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_inset_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_min_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_min_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_padding_top_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_floating_window_z = global::ManagerGpsMap.Droid.Resource.Dimension.abc_floating_window_z;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_panel_menu_list_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_search_view_preferred_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_switch_padding = global::ManagerGpsMap.Droid.Resource.Dimension.abc_switch_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_body_1_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_body_2_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_button_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_caption_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_1_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_2_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_3_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_4_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_headline_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_large_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_medium_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_menu_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_small_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_subhead_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_title_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_compat_inset_shadow = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_default_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_default_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_default_radius = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_default_radius;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_appbar_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_appbar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_border_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_border_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_image_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_image_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_size_mini = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_size_mini;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_size_normal = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_size_normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_translation_z_pressed = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_icon_padding = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_icon_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_padding_bottom = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_min_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_vertical = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_text_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_scrollable_min_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_text_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_text_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_text_size_2line = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.disabled_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.disabled_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_colored = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_large_icon_height = global::ManagerGpsMap.Droid.Resource.Dimension.notification_large_icon_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_large_icon_width = global::ManagerGpsMap.Droid.Resource.Dimension.notification_large_icon_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_subtext_size = global::ManagerGpsMap.Droid.Resource.Dimension.notification_subtext_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_action_bar_item_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_borderless_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_colored_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_internal_bg = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_top_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_control_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_control_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_edit_text_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_edit_text_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_black_16dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_black_36dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_item_background_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_item_background_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_focused_holo = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_longpressed_holo = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_pressed_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ManagerGpsMap.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::ManagerGpsMap.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ratingbar_small_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_seekbar_thumb_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_seekbar_track_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_switch_thumb_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_tab_indicator_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_text_cursor_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.design_fab_background = global::ManagerGpsMap.Droid.Resource.Drawable.design_fab_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.design_snackbar_background = global::ManagerGpsMap.Droid.Resource.Drawable.design_snackbar_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_audiotrack_light = global::ManagerGpsMap.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_dialog_material_background_dark = global::ManagerGpsMap.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_dialog_material_background_light = global::ManagerGpsMap.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.notification_template_icon_bg = global::ManagerGpsMap.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action0 = global::ManagerGpsMap.Droid.Resource.Id.action0;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar = global::ManagerGpsMap.Droid.Resource.Id.action_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_activity_content = global::ManagerGpsMap.Droid.Resource.Id.action_bar_activity_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_container = global::ManagerGpsMap.Droid.Resource.Id.action_bar_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_root = global::ManagerGpsMap.Droid.Resource.Id.action_bar_root;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_spinner = global::ManagerGpsMap.Droid.Resource.Id.action_bar_spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_subtitle = global::ManagerGpsMap.Droid.Resource.Id.action_bar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_title = global::ManagerGpsMap.Droid.Resource.Id.action_bar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_context_bar = global::ManagerGpsMap.Droid.Resource.Id.action_context_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_divider = global::ManagerGpsMap.Droid.Resource.Id.action_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_menu_divider = global::ManagerGpsMap.Droid.Resource.Id.action_menu_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_menu_presenter = global::ManagerGpsMap.Droid.Resource.Id.action_menu_presenter;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_bar = global::ManagerGpsMap.Droid.Resource.Id.action_mode_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_bar_stub = global::ManagerGpsMap.Droid.Resource.Id.action_mode_bar_stub;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_close_button = global::ManagerGpsMap.Droid.Resource.Id.action_mode_close_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.activity_chooser_view_content = global::ManagerGpsMap.Droid.Resource.Id.activity_chooser_view_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.alertTitle = global::ManagerGpsMap.Droid.Resource.Id.alertTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.always = global::ManagerGpsMap.Droid.Resource.Id.always;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.beginning = global::ManagerGpsMap.Droid.Resource.Id.beginning;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.bottom = global::ManagerGpsMap.Droid.Resource.Id.bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.buttonPanel = global::ManagerGpsMap.Droid.Resource.Id.buttonPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.cancel_action = global::ManagerGpsMap.Droid.Resource.Id.cancel_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center = global::ManagerGpsMap.Droid.Resource.Id.center;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center_horizontal = global::ManagerGpsMap.Droid.Resource.Id.center_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center_vertical = global::ManagerGpsMap.Droid.Resource.Id.center_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.checkbox = global::ManagerGpsMap.Droid.Resource.Id.checkbox;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.chronometer = global::ManagerGpsMap.Droid.Resource.Id.chronometer;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.clip_horizontal = global::ManagerGpsMap.Droid.Resource.Id.clip_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.clip_vertical = global::ManagerGpsMap.Droid.Resource.Id.clip_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.collapseActionView = global::ManagerGpsMap.Droid.Resource.Id.collapseActionView;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.contentPanel = global::ManagerGpsMap.Droid.Resource.Id.contentPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.custom = global::ManagerGpsMap.Droid.Resource.Id.custom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.customPanel = global::ManagerGpsMap.Droid.Resource.Id.customPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.decor_content_parent = global::ManagerGpsMap.Droid.Resource.Id.decor_content_parent;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.default_activity_button = global::ManagerGpsMap.Droid.Resource.Id.default_activity_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_bottom_sheet = global::ManagerGpsMap.Droid.Resource.Id.design_bottom_sheet;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_action_area = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_action_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_action_area_stub = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_text = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_navigation_view = global::ManagerGpsMap.Droid.Resource.Id.design_navigation_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.disableHome = global::ManagerGpsMap.Droid.Resource.Id.disableHome;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.edit_query = global::ManagerGpsMap.Droid.Resource.Id.edit_query;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.end = global::ManagerGpsMap.Droid.Resource.Id.end;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.end_padder = global::ManagerGpsMap.Droid.Resource.Id.end_padder;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.enterAlways = global::ManagerGpsMap.Droid.Resource.Id.enterAlways;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.enterAlwaysCollapsed = global::ManagerGpsMap.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.exitUntilCollapsed = global::ManagerGpsMap.Droid.Resource.Id.exitUntilCollapsed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.expand_activities_button = global::ManagerGpsMap.Droid.Resource.Id.expand_activities_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.expanded_menu = global::ManagerGpsMap.Droid.Resource.Id.expanded_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill = global::ManagerGpsMap.Droid.Resource.Id.fill;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill_horizontal = global::ManagerGpsMap.Droid.Resource.Id.fill_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill_vertical = global::ManagerGpsMap.Droid.Resource.Id.fill_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.@fixed = global::ManagerGpsMap.Droid.Resource.Id.@fixed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.home = global::ManagerGpsMap.Droid.Resource.Id.home;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.homeAsUp = global::ManagerGpsMap.Droid.Resource.Id.homeAsUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.icon = global::ManagerGpsMap.Droid.Resource.Id.icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.ifRoom = global::ManagerGpsMap.Droid.Resource.Id.ifRoom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.image = global::ManagerGpsMap.Droid.Resource.Id.image;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.info = global::ManagerGpsMap.Droid.Resource.Id.info;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.item_touch_helper_previous_elevation = global::ManagerGpsMap.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.left = global::ManagerGpsMap.Droid.Resource.Id.left;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.line1 = global::ManagerGpsMap.Droid.Resource.Id.line1;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.line3 = global::ManagerGpsMap.Droid.Resource.Id.line3;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.listMode = global::ManagerGpsMap.Droid.Resource.Id.listMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.list_item = global::ManagerGpsMap.Droid.Resource.Id.list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.media_actions = global::ManagerGpsMap.Droid.Resource.Id.media_actions;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.middle = global::ManagerGpsMap.Droid.Resource.Id.middle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mini = global::ManagerGpsMap.Droid.Resource.Id.mini;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_art = global::ManagerGpsMap.Droid.Resource.Id.mr_art;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_list = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_list;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_desc = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_desc;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_icon = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_name = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_name;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_close = global::ManagerGpsMap.Droid.Resource.Id.mr_close;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_divider = global::ManagerGpsMap.Droid.Resource.Id.mr_control_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_subtitle = global::ManagerGpsMap.Droid.Resource.Id.mr_control_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_title = global::ManagerGpsMap.Droid.Resource.Id.mr_control_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_title_container = global::ManagerGpsMap.Droid.Resource.Id.mr_control_title_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_custom_control = global::ManagerGpsMap.Droid.Resource.Id.mr_custom_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_default_control = global::ManagerGpsMap.Droid.Resource.Id.mr_default_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_dialog_area = global::ManagerGpsMap.Droid.Resource.Id.mr_dialog_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_expandable_area = global::ManagerGpsMap.Droid.Resource.Id.mr_expandable_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_group_expand_collapse = global::ManagerGpsMap.Droid.Resource.Id.mr_group_expand_collapse;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_media_main_control = global::ManagerGpsMap.Droid.Resource.Id.mr_media_main_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_name = global::ManagerGpsMap.Droid.Resource.Id.mr_name;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_playback_control = global::ManagerGpsMap.Droid.Resource.Id.mr_playback_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_title_bar = global::ManagerGpsMap.Droid.Resource.Id.mr_title_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_control = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_group_list = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_group_list;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_item_icon = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_item_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_slider = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_slider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.multiply = global::ManagerGpsMap.Droid.Resource.Id.multiply;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.navigation_header_container = global::ManagerGpsMap.Droid.Resource.Id.navigation_header_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.never = global::ManagerGpsMap.Droid.Resource.Id.never;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.none = global::ManagerGpsMap.Droid.Resource.Id.none;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.normal = global::ManagerGpsMap.Droid.Resource.Id.normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.parallax = global::ManagerGpsMap.Droid.Resource.Id.parallax;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.parentPanel = global::ManagerGpsMap.Droid.Resource.Id.parentPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.pin = global::ManagerGpsMap.Droid.Resource.Id.pin;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.progress_circular = global::ManagerGpsMap.Droid.Resource.Id.progress_circular;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.progress_horizontal = global::ManagerGpsMap.Droid.Resource.Id.progress_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.radio = global::ManagerGpsMap.Droid.Resource.Id.radio;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.right = global::ManagerGpsMap.Droid.Resource.Id.right;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.screen = global::ManagerGpsMap.Droid.Resource.Id.screen;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scroll = global::ManagerGpsMap.Droid.Resource.Id.scroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollIndicatorDown = global::ManagerGpsMap.Droid.Resource.Id.scrollIndicatorDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollIndicatorUp = global::ManagerGpsMap.Droid.Resource.Id.scrollIndicatorUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollView = global::ManagerGpsMap.Droid.Resource.Id.scrollView;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollable = global::ManagerGpsMap.Droid.Resource.Id.scrollable;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_badge = global::ManagerGpsMap.Droid.Resource.Id.search_badge;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_bar = global::ManagerGpsMap.Droid.Resource.Id.search_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_button = global::ManagerGpsMap.Droid.Resource.Id.search_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_close_btn = global::ManagerGpsMap.Droid.Resource.Id.search_close_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_edit_frame = global::ManagerGpsMap.Droid.Resource.Id.search_edit_frame;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_go_btn = global::ManagerGpsMap.Droid.Resource.Id.search_go_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_mag_icon = global::ManagerGpsMap.Droid.Resource.Id.search_mag_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_plate = global::ManagerGpsMap.Droid.Resource.Id.search_plate;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_src_text = global::ManagerGpsMap.Droid.Resource.Id.search_src_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_voice_btn = global::ManagerGpsMap.Droid.Resource.Id.search_voice_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.select_dialog_listview = global::ManagerGpsMap.Droid.Resource.Id.select_dialog_listview;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.shortcut = global::ManagerGpsMap.Droid.Resource.Id.shortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showCustom = global::ManagerGpsMap.Droid.Resource.Id.showCustom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showHome = global::ManagerGpsMap.Droid.Resource.Id.showHome;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showTitle = global::ManagerGpsMap.Droid.Resource.Id.showTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snackbar_action = global::ManagerGpsMap.Droid.Resource.Id.snackbar_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snackbar_text = global::ManagerGpsMap.Droid.Resource.Id.snackbar_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snap = global::ManagerGpsMap.Droid.Resource.Id.snap;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.spacer = global::ManagerGpsMap.Droid.Resource.Id.spacer;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.split_action_bar = global::ManagerGpsMap.Droid.Resource.Id.split_action_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_atop = global::ManagerGpsMap.Droid.Resource.Id.src_atop;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_in = global::ManagerGpsMap.Droid.Resource.Id.src_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_over = global::ManagerGpsMap.Droid.Resource.Id.src_over;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.start = global::ManagerGpsMap.Droid.Resource.Id.start;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.status_bar_latest_event_content = global::ManagerGpsMap.Droid.Resource.Id.status_bar_latest_event_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.submit_area = global::ManagerGpsMap.Droid.Resource.Id.submit_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.tabMode = global::ManagerGpsMap.Droid.Resource.Id.tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.text = global::ManagerGpsMap.Droid.Resource.Id.text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.text2 = global::ManagerGpsMap.Droid.Resource.Id.text2;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.textSpacerNoButtons = global::ManagerGpsMap.Droid.Resource.Id.textSpacerNoButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.time = global::ManagerGpsMap.Droid.Resource.Id.time;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.title = global::ManagerGpsMap.Droid.Resource.Id.title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.title_template = global::ManagerGpsMap.Droid.Resource.Id.title_template;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.top = global::ManagerGpsMap.Droid.Resource.Id.top;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.topPanel = global::ManagerGpsMap.Droid.Resource.Id.topPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.touch_outside = global::ManagerGpsMap.Droid.Resource.Id.touch_outside;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.up = global::ManagerGpsMap.Droid.Resource.Id.up;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.useLogo = global::ManagerGpsMap.Droid.Resource.Id.useLogo;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.view_offset_helper = global::ManagerGpsMap.Droid.Resource.Id.view_offset_helper;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.volume_item_container = global::ManagerGpsMap.Droid.Resource.Id.volume_item_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.withText = global::ManagerGpsMap.Droid.Resource.Id.withText;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.wrap_content = global::ManagerGpsMap.Droid.Resource.Id.wrap_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.abc_config_activityDefaultDur = global::ManagerGpsMap.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.abc_config_activityShortDur = global::ManagerGpsMap.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.bottom_sheet_slide_duration = global::ManagerGpsMap.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.cancel_button_image_alpha = global::ManagerGpsMap.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.design_snackbar_text_max_lines = global::ManagerGpsMap.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.status_bar_notification_info_maxnum = global::ManagerGpsMap.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DevExpress.Mobile.Core.Android.Resource.Interpolator.mr_fast_out_slow_in = global::ManagerGpsMap.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Interpolator.mr_linear_out_slow_in = global::ManagerGpsMap.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_title_item = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_up_container = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_menu_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_menu_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_mode_bar = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_mode_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_mode_close_item_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_activity_chooser_view = global::ManagerGpsMap.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::ManagerGpsMap.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_alert_dialog_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_dialog_title_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_dialog_title_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_expanded_menu_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_checkbox = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_icon = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_radio = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_popup_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_content_include = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_content_include;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_simple = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_simple;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_toolbar = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ManagerGpsMap.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_search_view = global::ManagerGpsMap.Droid.Resource.Layout.abc_search_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_select_dialog_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_select_dialog_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_bottom_sheet_dialog = global::ManagerGpsMap.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_snackbar = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_snackbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_snackbar_include = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_tab_icon = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_tab_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_tab_text = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_tab_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_menu_item_action_area = global::ManagerGpsMap.Droid.Resource.Layout.design_menu_item_action_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_header = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_header;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_separator = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_separator;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_subheader = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_menu = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_menu_item = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_menu_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_chooser_dialog = global::ManagerGpsMap.Droid.Resource.Layout.mr_chooser_dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_chooser_list_item = global::ManagerGpsMap.Droid.Resource.Layout.mr_chooser_list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_controller_material_dialog_b = global::ManagerGpsMap.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_controller_volume_item = global::ManagerGpsMap.Droid.Resource.Layout.mr_controller_volume_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_playback_control = global::ManagerGpsMap.Droid.Resource.Layout.mr_playback_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_volume_control = global::ManagerGpsMap.Droid.Resource.Layout.mr_volume_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_media_action = global::ManagerGpsMap.Droid.Resource.Layout.notification_media_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_media_cancel_action = global::ManagerGpsMap.Droid.Resource.Layout.notification_media_cancel_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_big_media = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_big_media;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_big_media_narrow = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_media = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_media;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_part_chronometer = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_part_time = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_part_time;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_item_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_item_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_multichoice_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_singlechoice_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::ManagerGpsMap.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_description_format = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_up_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_up_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_menu_overflow_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_mode_done = global::ManagerGpsMap.Droid.Resource.String.abc_action_mode_done;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_activity_chooser_view_see_all = global::ManagerGpsMap.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_activitychooserview_choose_application = global::ManagerGpsMap.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_capital_off = global::ManagerGpsMap.Droid.Resource.String.abc_capital_off;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_capital_on = global::ManagerGpsMap.Droid.Resource.String.abc_capital_on;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_search_hint = global::ManagerGpsMap.Droid.Resource.String.abc_search_hint;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_clear = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_clear;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_query = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_query;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_search = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_search;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_submit = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_submit;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_voice = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_voice;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_shareactionprovider_share_with = global::ManagerGpsMap.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_shareactionprovider_share_with_application = global::ManagerGpsMap.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_toolbar_collapse_description = global::ManagerGpsMap.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.appbar_scrolling_view_behavior = global::ManagerGpsMap.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.String.bottom_sheet_behavior = global::ManagerGpsMap.Droid.Resource.String.bottom_sheet_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.String.character_counter_pattern = global::ManagerGpsMap.Droid.Resource.String.character_counter_pattern;
+			global::DevExpress.Mobile.Core.Android.Resource.String.library_name = global::ManagerGpsMap.Droid.Resource.String.library_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_button_content_description = global::ManagerGpsMap.Droid.Resource.String.mr_button_content_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_chooser_searching = global::ManagerGpsMap.Droid.Resource.String.mr_chooser_searching;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_chooser_title = global::ManagerGpsMap.Droid.Resource.String.mr_chooser_title;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_casting_screen = global::ManagerGpsMap.Droid.Resource.String.mr_controller_casting_screen;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_close_description = global::ManagerGpsMap.Droid.Resource.String.mr_controller_close_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_collapse_group = global::ManagerGpsMap.Droid.Resource.String.mr_controller_collapse_group;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_disconnect = global::ManagerGpsMap.Droid.Resource.String.mr_controller_disconnect;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_expand_group = global::ManagerGpsMap.Droid.Resource.String.mr_controller_expand_group;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_no_info_available = global::ManagerGpsMap.Droid.Resource.String.mr_controller_no_info_available;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_no_media_selected = global::ManagerGpsMap.Droid.Resource.String.mr_controller_no_media_selected;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_pause = global::ManagerGpsMap.Droid.Resource.String.mr_controller_pause;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_play = global::ManagerGpsMap.Droid.Resource.String.mr_controller_play;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_stop = global::ManagerGpsMap.Droid.Resource.String.mr_controller_stop;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_system_route_name = global::ManagerGpsMap.Droid.Resource.String.mr_system_route_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_user_route_category_name = global::ManagerGpsMap.Droid.Resource.String.mr_user_route_category_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.status_bar_notification_info_overflow = global::ManagerGpsMap.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.AlertDialog_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.AlertDialog_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::ManagerGpsMap.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_AlertDialog_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ManagerGpsMap.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_CardView = global::ManagerGpsMap.Droid.Resource.Style.Base_CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V22_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V23_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_Design_TabLayout = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView = global::ManagerGpsMap.Droid.Resource.Style.CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView_Dark = global::ManagerGpsMap.Droid.Resource.Style.CardView_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView_Light = global::ManagerGpsMap.Droid.Resource.Style.CardView_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V11_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V11_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V14_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V14_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Counter = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Error = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Hint = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Tab = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Small = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ImageButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SeekBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Toolbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_AppBarLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_FloatingActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_NavigationView = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_Snackbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_TabLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_TextInputLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_background = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_backgroundSplit = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_backgroundStacked = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetRight = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetStart = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_displayOptions = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_divider = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_height = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_homeLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_icon = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_itemPadding = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_logo = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_navigationMode = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_progressBarPadding = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_progressBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_subtitle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_title = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_titleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuItemView = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuItemView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuView = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_background = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_backgroundSplit = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_closeItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_height = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_titleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_listItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_listLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_expanded = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView_android_src = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ButtonBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ButtonBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::ManagerGpsMap.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView = global::ManagerGpsMap.Droid.Resource.Styleable.CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardBackgroundColor = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardCornerRadius = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardElevation = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardMaxElevation = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPadding = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingBottom = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingLeft = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingRight = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingTop = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_android_button = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_buttonTint = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_keylines = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_textColorError = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_color = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_fabSize = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_divider = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_enabled = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_visible = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionLayout = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionProviderClass = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionViewClass = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_checkable = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_checked = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_enabled = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_icon = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_menuCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_onClick = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_title = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_visible = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_showAsAction = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_headerBackground = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_verticalDivider = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_headerLayout = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemIconTint = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_menu = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindowBackgroundState = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_android_orientation = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_layoutManager = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_reverseLayout = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_spanCount = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::ManagerGpsMap.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_focusable = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_imeOptions = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_inputType = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_closeIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_commitIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_defaultQueryHint = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_goIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_goIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_layout = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_queryBackground = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_queryHint = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_queryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_searchHintIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_searchIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_submitBackground = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_voiceIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_entries = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_entries;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_popupBackground = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_prompt = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_textOff = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_textOn = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_thumb = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_showText = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_splitTrack = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchPadding = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_track = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_track;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_icon = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_text = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabBackground = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabContentStart = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabGravity = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMinWidth = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMode = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPadding = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textColor = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textSize = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textStyle = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_typeface = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_textAllCaps = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_android_hint = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_android_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_collapseIcon = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetRight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetStart = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_logo = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_logoDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_navigationIcon = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitle = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_title = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginStart = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginTop = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMargins = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View = global::ManagerGpsMap.Droid.Resource.Styleable.View;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_android_focusable = global::ManagerGpsMap.Droid.Resource.Styleable.View_android_focusable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_android_theme = global::ManagerGpsMap.Droid.Resource.Styleable.View_android_theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_paddingEnd = global::ManagerGpsMap.Droid.Resource.Styleable.View_paddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_paddingStart = global::ManagerGpsMap.Droid.Resource.Styleable.View_paddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_theme = global::ManagerGpsMap.Droid.Resource.Styleable.View_theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_fade_in = global::ManagerGpsMap.Droid.Resource.Animation.abc_fade_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_fade_out = global::ManagerGpsMap.Droid.Resource.Animation.abc_fade_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_popup_enter = global::ManagerGpsMap.Droid.Resource.Animation.abc_popup_enter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_popup_exit = global::ManagerGpsMap.Droid.Resource.Animation.abc_popup_exit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_in_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_in_top = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_in_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_out_bottom = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_out_top = global::ManagerGpsMap.Droid.Resource.Animation.abc_slide_out_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_bottom_sheet_slide_in = global::ManagerGpsMap.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_bottom_sheet_slide_out = global::ManagerGpsMap.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_fab_in = global::ManagerGpsMap.Droid.Resource.Animation.design_fab_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_fab_out = global::ManagerGpsMap.Droid.Resource.Animation.design_fab_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_snackbar_in = global::ManagerGpsMap.Droid.Resource.Animation.design_snackbar_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_snackbar_out = global::ManagerGpsMap.Droid.Resource.Animation.design_snackbar_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarDivider = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarItemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarPopupTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarSize = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarSplitStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarWidgetTheme = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionDropDownStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionDropDownStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionLayout = global::ManagerGpsMap.Droid.Resource.Attribute.actionLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionMenuTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionMenuTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.actionMenuTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCloseButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCloseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCopyDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCutDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeFindDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModePasteDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModePopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeSelectAllDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeShareDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeSplitBackground = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeWebSearchDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionOverflowButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionOverflowMenuStyle = global::ManagerGpsMap.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionProviderClass = global::ManagerGpsMap.Droid.Resource.Attribute.actionProviderClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionViewClass = global::ManagerGpsMap.Droid.Resource.Attribute.actionViewClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.activityChooserViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogCenterButtons = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogStyle = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.alertDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.allowStacking = global::ManagerGpsMap.Droid.Resource.Attribute.allowStacking;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.arrowHeadLength = global::ManagerGpsMap.Droid.Resource.Attribute.arrowHeadLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.arrowShaftLength = global::ManagerGpsMap.Droid.Resource.Attribute.arrowShaftLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.autoCompleteTextViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.background = global::ManagerGpsMap.Droid.Resource.Attribute.background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundSplit = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundStacked = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundStacked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundTint = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Attribute.backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.barLength = global::ManagerGpsMap.Droid.Resource.Attribute.barLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_hideable = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_hideable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_overlapTop = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_overlapTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_peekHeight = global::ManagerGpsMap.Droid.Resource.Attribute.behavior_peekHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.borderWidth = global::ManagerGpsMap.Droid.Resource.Attribute.borderWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.borderlessButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.bottomSheetDialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.bottomSheetStyle = global::ManagerGpsMap.Droid.Resource.Attribute.bottomSheetStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonPanelSideLayout = global::ManagerGpsMap.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.buttonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonStyleSmall = global::ManagerGpsMap.Droid.Resource.Attribute.buttonStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonTint = global::ManagerGpsMap.Droid.Resource.Attribute.buttonTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonTintMode = global::ManagerGpsMap.Droid.Resource.Attribute.buttonTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardBackgroundColor = global::ManagerGpsMap.Droid.Resource.Attribute.cardBackgroundColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardCornerRadius = global::ManagerGpsMap.Droid.Resource.Attribute.cardCornerRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardElevation = global::ManagerGpsMap.Droid.Resource.Attribute.cardElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardMaxElevation = global::ManagerGpsMap.Droid.Resource.Attribute.cardMaxElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardPreventCornerOverlap = global::ManagerGpsMap.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardUseCompatPadding = global::ManagerGpsMap.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.checkboxStyle = global::ManagerGpsMap.Droid.Resource.Attribute.checkboxStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.checkedTextViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.closeIcon = global::ManagerGpsMap.Droid.Resource.Attribute.closeIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.closeItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.closeItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapseContentDescription = global::ManagerGpsMap.Droid.Resource.Attribute.collapseContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapseIcon = global::ManagerGpsMap.Droid.Resource.Attribute.collapseIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapsedTitleGravity = global::ManagerGpsMap.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapsedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.color = global::ManagerGpsMap.Droid.Resource.Attribute.color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorAccent = global::ManagerGpsMap.Droid.Resource.Attribute.colorAccent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorButtonNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorButtonNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlActivated = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlActivated;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlHighlight = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlHighlight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorControlNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorPrimary = global::ManagerGpsMap.Droid.Resource.Attribute.colorPrimary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorPrimaryDark = global::ManagerGpsMap.Droid.Resource.Attribute.colorPrimaryDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorSwitchThumbNormal = global::ManagerGpsMap.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.commitIcon = global::ManagerGpsMap.Droid.Resource.Attribute.commitIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetRight = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetStart = global::ManagerGpsMap.Droid.Resource.Attribute.contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPadding = global::ManagerGpsMap.Droid.Resource.Attribute.contentPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingBottom = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingLeft = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingRight = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingTop = global::ManagerGpsMap.Droid.Resource.Attribute.contentPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentScrim = global::ManagerGpsMap.Droid.Resource.Attribute.contentScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.controlBackground = global::ManagerGpsMap.Droid.Resource.Attribute.controlBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.counterEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterMaxLength = global::ManagerGpsMap.Droid.Resource.Attribute.counterMaxLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterOverflowTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.counterTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.customNavigationLayout = global::ManagerGpsMap.Droid.Resource.Attribute.customNavigationLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.defaultQueryHint = global::ManagerGpsMap.Droid.Resource.Attribute.defaultQueryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dialogPreferredPadding = global::ManagerGpsMap.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dialogTheme = global::ManagerGpsMap.Droid.Resource.Attribute.dialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.displayOptions = global::ManagerGpsMap.Droid.Resource.Attribute.displayOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.divider = global::ManagerGpsMap.Droid.Resource.Attribute.divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerHorizontal = global::ManagerGpsMap.Droid.Resource.Attribute.dividerHorizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerPadding = global::ManagerGpsMap.Droid.Resource.Attribute.dividerPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerVertical = global::ManagerGpsMap.Droid.Resource.Attribute.dividerVertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.drawableSize = global::ManagerGpsMap.Droid.Resource.Attribute.drawableSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.drawerArrowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.drawerArrowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dropDownListViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextBackground = global::ManagerGpsMap.Droid.Resource.Attribute.editTextBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.editTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.editTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.elevation = global::ManagerGpsMap.Droid.Resource.Attribute.elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.errorEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.errorEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.errorTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.errorTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expanded = global::ManagerGpsMap.Droid.Resource.Attribute.expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleGravity = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMargin = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMargin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginBottom = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginEnd = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginStart = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginTop = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.externalRouteEnabledDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.fabSize = global::ManagerGpsMap.Droid.Resource.Attribute.fabSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.foregroundInsidePadding = global::ManagerGpsMap.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.gapBetweenBars = global::ManagerGpsMap.Droid.Resource.Attribute.gapBetweenBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.goIcon = global::ManagerGpsMap.Droid.Resource.Attribute.goIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.headerLayout = global::ManagerGpsMap.Droid.Resource.Attribute.headerLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.height = global::ManagerGpsMap.Droid.Resource.Attribute.height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hideOnContentScroll = global::ManagerGpsMap.Droid.Resource.Attribute.hideOnContentScroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintAnimationEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.hintEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.hintTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.homeLayout = global::ManagerGpsMap.Droid.Resource.Attribute.homeLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.icon = global::ManagerGpsMap.Droid.Resource.Attribute.icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.iconifiedByDefault = global::ManagerGpsMap.Droid.Resource.Attribute.iconifiedByDefault;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.imageButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.imageButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.indeterminateProgressStyle = global::ManagerGpsMap.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.initialActivityCount = global::ManagerGpsMap.Droid.Resource.Attribute.initialActivityCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.insetForeground = global::ManagerGpsMap.Droid.Resource.Attribute.insetForeground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.isLightTheme = global::ManagerGpsMap.Droid.Resource.Attribute.isLightTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemIconTint = global::ManagerGpsMap.Droid.Resource.Attribute.itemIconTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemPadding = global::ManagerGpsMap.Droid.Resource.Attribute.itemPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.itemTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.keylines = global::ManagerGpsMap.Droid.Resource.Attribute.keylines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout = global::ManagerGpsMap.Droid.Resource.Attribute.layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layoutManager = global::ManagerGpsMap.Droid.Resource.Attribute.layoutManager;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_anchor = global::ManagerGpsMap.Droid.Resource.Attribute.layout_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_anchorGravity = global::ManagerGpsMap.Droid.Resource.Attribute.layout_anchorGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_behavior = global::ManagerGpsMap.Droid.Resource.Attribute.layout_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_collapseMode = global::ManagerGpsMap.Droid.Resource.Attribute.layout_collapseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::ManagerGpsMap.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_keyline = global::ManagerGpsMap.Droid.Resource.Attribute.layout_keyline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_scrollFlags = global::ManagerGpsMap.Droid.Resource.Attribute.layout_scrollFlags;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_scrollInterpolator = global::ManagerGpsMap.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listDividerAlertDialog = global::ManagerGpsMap.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.listItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listLayout = global::ManagerGpsMap.Droid.Resource.Attribute.listLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeightLarge = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeightSmall = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemPaddingRight = global::ManagerGpsMap.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.logo = global::ManagerGpsMap.Droid.Resource.Attribute.logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.logoDescription = global::ManagerGpsMap.Droid.Resource.Attribute.logoDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.maxActionInlineWidth = global::ManagerGpsMap.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.maxButtonHeight = global::ManagerGpsMap.Droid.Resource.Attribute.maxButtonHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.measureWithLargestChild = global::ManagerGpsMap.Droid.Resource.Attribute.measureWithLargestChild;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteCloseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRoutePauseDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRoutePlayDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::ManagerGpsMap.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.menu = global::ManagerGpsMap.Droid.Resource.Attribute.menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.multiChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationContentDescription = global::ManagerGpsMap.Droid.Resource.Attribute.navigationContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationIcon = global::ManagerGpsMap.Droid.Resource.Attribute.navigationIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationMode = global::ManagerGpsMap.Droid.Resource.Attribute.navigationMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.overlapAnchor = global::ManagerGpsMap.Droid.Resource.Attribute.overlapAnchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.paddingEnd = global::ManagerGpsMap.Droid.Resource.Attribute.paddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.paddingStart = global::ManagerGpsMap.Droid.Resource.Attribute.paddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelBackground = global::ManagerGpsMap.Droid.Resource.Attribute.panelBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelMenuListTheme = global::ManagerGpsMap.Droid.Resource.Attribute.panelMenuListTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelMenuListWidth = global::ManagerGpsMap.Droid.Resource.Attribute.panelMenuListWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupMenuStyle = global::ManagerGpsMap.Droid.Resource.Attribute.popupMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupTheme = global::ManagerGpsMap.Droid.Resource.Attribute.popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupWindowStyle = global::ManagerGpsMap.Droid.Resource.Attribute.popupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.preserveIconSpacing = global::ManagerGpsMap.Droid.Resource.Attribute.preserveIconSpacing;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.pressedTranslationZ = global::ManagerGpsMap.Droid.Resource.Attribute.pressedTranslationZ;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.progressBarPadding = global::ManagerGpsMap.Droid.Resource.Attribute.progressBarPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.progressBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.progressBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.queryBackground = global::ManagerGpsMap.Droid.Resource.Attribute.queryBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.queryHint = global::ManagerGpsMap.Droid.Resource.Attribute.queryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.radioButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.radioButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyleIndicator = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyleSmall = global::ManagerGpsMap.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.reverseLayout = global::ManagerGpsMap.Droid.Resource.Attribute.reverseLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.rippleColor = global::ManagerGpsMap.Droid.Resource.Attribute.rippleColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchHintIcon = global::ManagerGpsMap.Droid.Resource.Attribute.searchHintIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchIcon = global::ManagerGpsMap.Droid.Resource.Attribute.searchIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchViewStyle = global::ManagerGpsMap.Droid.Resource.Attribute.searchViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.seekBarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.seekBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.selectableItemBackground = global::ManagerGpsMap.Droid.Resource.Attribute.selectableItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::ManagerGpsMap.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showAsAction = global::ManagerGpsMap.Droid.Resource.Attribute.showAsAction;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showDividers = global::ManagerGpsMap.Droid.Resource.Attribute.showDividers;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showText = global::ManagerGpsMap.Droid.Resource.Attribute.showText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.singleChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spanCount = global::ManagerGpsMap.Droid.Resource.Attribute.spanCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinBars = global::ManagerGpsMap.Droid.Resource.Attribute.spinBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinnerDropDownItemStyle = global::ManagerGpsMap.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinnerStyle = global::ManagerGpsMap.Droid.Resource.Attribute.spinnerStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.splitTrack = global::ManagerGpsMap.Droid.Resource.Attribute.splitTrack;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.srcCompat = global::ManagerGpsMap.Droid.Resource.Attribute.srcCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.stackFromEnd = global::ManagerGpsMap.Droid.Resource.Attribute.stackFromEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.state_above_anchor = global::ManagerGpsMap.Droid.Resource.Attribute.state_above_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.statusBarBackground = global::ManagerGpsMap.Droid.Resource.Attribute.statusBarBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.statusBarScrim = global::ManagerGpsMap.Droid.Resource.Attribute.statusBarScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.submitBackground = global::ManagerGpsMap.Droid.Resource.Attribute.submitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitle = global::ManagerGpsMap.Droid.Resource.Attribute.subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.suggestionRowLayout = global::ManagerGpsMap.Droid.Resource.Attribute.suggestionRowLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchMinWidth = global::ManagerGpsMap.Droid.Resource.Attribute.switchMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchPadding = global::ManagerGpsMap.Droid.Resource.Attribute.switchPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchStyle = global::ManagerGpsMap.Droid.Resource.Attribute.switchStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.switchTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabBackground = global::ManagerGpsMap.Droid.Resource.Attribute.tabBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabContentStart = global::ManagerGpsMap.Droid.Resource.Attribute.tabContentStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabGravity = global::ManagerGpsMap.Droid.Resource.Attribute.tabGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabIndicatorColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabIndicatorColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabIndicatorHeight = global::ManagerGpsMap.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMaxWidth = global::ManagerGpsMap.Droid.Resource.Attribute.tabMaxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMinWidth = global::ManagerGpsMap.Droid.Resource.Attribute.tabMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMode = global::ManagerGpsMap.Droid.Resource.Attribute.tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPadding = global::ManagerGpsMap.Droid.Resource.Attribute.tabPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingBottom = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingEnd = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingStart = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingTop = global::ManagerGpsMap.Droid.Resource.Attribute.tabPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabSelectedTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.tabTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.tabTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAllCaps = global::ManagerGpsMap.Droid.Resource.Attribute.textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceListItem = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceListItemSmall = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::ManagerGpsMap.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorAlertDialogListItem = global::ManagerGpsMap.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorError = global::ManagerGpsMap.Droid.Resource.Attribute.textColorError;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorSearchUrl = global::ManagerGpsMap.Droid.Resource.Attribute.textColorSearchUrl;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.theme = global::ManagerGpsMap.Droid.Resource.Attribute.theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.thickness = global::ManagerGpsMap.Droid.Resource.Attribute.thickness;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.thumbTextPadding = global::ManagerGpsMap.Droid.Resource.Attribute.thumbTextPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.title = global::ManagerGpsMap.Droid.Resource.Attribute.title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleEnabled = global::ManagerGpsMap.Droid.Resource.Attribute.titleEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginBottom = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginEnd = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginStart = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginTop = global::ManagerGpsMap.Droid.Resource.Attribute.titleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMargins = global::ManagerGpsMap.Droid.Resource.Attribute.titleMargins;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextAppearance = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextColor = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextStyle = global::ManagerGpsMap.Droid.Resource.Attribute.titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarId = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarStyle = global::ManagerGpsMap.Droid.Resource.Attribute.toolbarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.track = global::ManagerGpsMap.Droid.Resource.Attribute.track;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.useCompatPadding = global::ManagerGpsMap.Droid.Resource.Attribute.useCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.voiceIcon = global::ManagerGpsMap.Droid.Resource.Attribute.voiceIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionBar = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionBarOverlay = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionModeOverlay = global::ManagerGpsMap.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedHeightMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedHeightMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedWidthMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedWidthMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowMinWidthMajor = global::ManagerGpsMap.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowMinWidthMinor = global::ManagerGpsMap.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowNoTitle = global::ManagerGpsMap.Droid.Resource.Attribute.windowNoTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::ManagerGpsMap.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::ManagerGpsMap.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::ManagerGpsMap.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_color_highlight_material = global::ManagerGpsMap.Droid.Resource.Color.abc_color_highlight_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_input_method_navigation_guard = global::ManagerGpsMap.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_primary_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_normal = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_pressed = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_selected = global::ManagerGpsMap.Droid.Resource.Color.abc_search_url_text_selected;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_secondary_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_secondary_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.accent_material_dark = global::ManagerGpsMap.Droid.Resource.Color.accent_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.accent_material_light = global::ManagerGpsMap.Droid.Resource.Color.accent_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_floating_material_dark = global::ManagerGpsMap.Droid.Resource.Color.background_floating_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_floating_material_light = global::ManagerGpsMap.Droid.Resource.Color.background_floating_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_material_dark = global::ManagerGpsMap.Droid.Resource.Color.background_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_material_light = global::ManagerGpsMap.Droid.Resource.Color.background_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.black = global::ManagerGpsMap.Droid.Resource.Color.black;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.blue = global::ManagerGpsMap.Droid.Resource.Color.blue;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_inverse_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_inverse_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.bright_foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.button_material_dark = global::ManagerGpsMap.Droid.Resource.Color.button_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.button_material_light = global::ManagerGpsMap.Droid.Resource.Color.button_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_dark_background = global::ManagerGpsMap.Droid.Resource.Color.cardview_dark_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_light_background = global::ManagerGpsMap.Droid.Resource.Color.cardview_light_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_shadow_end_color = global::ManagerGpsMap.Droid.Resource.Color.cardview_shadow_end_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_shadow_start_color = global::ManagerGpsMap.Droid.Resource.Color.cardview_shadow_start_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_end_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_mid_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_start_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_end_inner_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_end_outer_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_top_inner_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_top_outer_color = global::ManagerGpsMap.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_snackbar_background_color = global::ManagerGpsMap.Droid.Resource.Color.design_snackbar_background_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_textinput_error_color_dark = global::ManagerGpsMap.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_textinput_error_color_light = global::ManagerGpsMap.Droid.Resource.Color.design_textinput_error_color_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.dim_foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.foreground_material_dark = global::ManagerGpsMap.Droid.Resource.Color.foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.foreground_material_light = global::ManagerGpsMap.Droid.Resource.Color.foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.gray = global::ManagerGpsMap.Droid.Resource.Color.gray;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.green = global::ManagerGpsMap.Droid.Resource.Color.green;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.highlighted_text_material_dark = global::ManagerGpsMap.Droid.Resource.Color.highlighted_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.highlighted_text_material_light = global::ManagerGpsMap.Droid.Resource.Color.highlighted_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_800 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_800;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_900 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_900;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_950 = global::ManagerGpsMap.Droid.Resource.Color.material_blue_grey_950;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_deep_teal_200 = global::ManagerGpsMap.Droid.Resource.Color.material_deep_teal_200;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_deep_teal_500 = global::ManagerGpsMap.Droid.Resource.Color.material_deep_teal_500;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_100 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_100;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_300 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_300;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_50 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_50;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_600 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_600;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_800 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_800;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_850 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_850;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_900 = global::ManagerGpsMap.Droid.Resource.Color.material_grey_900;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_dark_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_dark_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_dark_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_dark_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_default_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_text_default_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_default_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_text_default_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.red = global::ManagerGpsMap.Droid.Resource.Color.red;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.ripple_material_dark = global::ManagerGpsMap.Droid.Resource.Color.ripple_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.ripple_material_light = global::ManagerGpsMap.Droid.Resource.Color.ripple_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_default_material_dark = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_default_material_light = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_default_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_disabled_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_disabled_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_normal_material_dark = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_normal_material_light = global::ManagerGpsMap.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.theme_dark_segmented_radio_button_text = global::ManagerGpsMap.Droid.Resource.Color.theme_dark_segmented_radio_button_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.theme_default_segmented_radio_button_text = global::ManagerGpsMap.Droid.Resource.Color.theme_default_segmented_radio_button_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_width_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ManagerGpsMap.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_inset_vertical_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_padding_vertical_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_config_prefDialogWidth = global::ManagerGpsMap.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_corner_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_corner_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_inset_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_inset_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_control_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_min_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_min_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_padding_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_padding_top_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ManagerGpsMap.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_floating_window_z = global::ManagerGpsMap.Droid.Resource.Dimension.abc_floating_window_z;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_panel_menu_list_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_search_view_preferred_width = global::ManagerGpsMap.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_switch_padding = global::ManagerGpsMap.Droid.Resource.Dimension.abc_switch_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_body_1_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_body_2_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_button_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_caption_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_1_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_2_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_3_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_4_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_headline_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_large_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_medium_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_menu_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_small_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_subhead_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_title_material = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::ManagerGpsMap.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_compat_inset_shadow = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_default_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_default_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_default_radius = global::ManagerGpsMap.Droid.Resource.Dimension.cardview_default_radius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_appbar_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_appbar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_border_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_border_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_image_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_image_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_size_mini = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_size_mini;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_size_normal = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_size_normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_translation_z_pressed = global::ManagerGpsMap.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_icon_padding = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_icon_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_padding_bottom = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::ManagerGpsMap.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_elevation = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_min_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_vertical = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_text_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_max_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_scrollable_min_width = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_text_size = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_text_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_text_size_2line = global::ManagerGpsMap.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.disabled_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.disabled_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_colored = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_dark = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_light = global::ManagerGpsMap.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ManagerGpsMap.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::ManagerGpsMap.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::ManagerGpsMap.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::ManagerGpsMap.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_large_icon_height = global::ManagerGpsMap.Droid.Resource.Dimension.notification_large_icon_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_large_icon_width = global::ManagerGpsMap.Droid.Resource.Dimension.notification_large_icon_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_subtext_size = global::ManagerGpsMap.Droid.Resource.Dimension.notification_subtext_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_action_bar_item_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_borderless_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_colored_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_internal_bg = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_top_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_control_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_control_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_edit_text_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_edit_text_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_black_16dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_black_36dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_item_background_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_item_background_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_focused_holo = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_longpressed_holo = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_pressed_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_holo_dark = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_holo_light = global::ManagerGpsMap.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ManagerGpsMap.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::ManagerGpsMap.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ratingbar_small_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_seekbar_thumb_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_seekbar_track_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_switch_thumb_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_tab_indicator_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_text_cursor_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_material = global::ManagerGpsMap.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.design_fab_background = global::ManagerGpsMap.Droid.Resource.Drawable.design_fab_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.design_snackbar_background = global::ManagerGpsMap.Droid.Resource.Drawable.design_snackbar_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_audiotrack_light = global::ManagerGpsMap.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_dialog_material_background_dark = global::ManagerGpsMap.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_dialog_material_background_light = global::ManagerGpsMap.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.notification_template_icon_bg = global::ManagerGpsMap.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey = global::ManagerGpsMap.Droid.Resource.Drawable.segment_grey;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_grey_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_grey_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_off = global::ManagerGpsMap.Droid.Resource.Drawable.segment_left_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_off_pressed = global::ManagerGpsMap.Droid.Resource.Drawable.segment_left_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_on = global::ManagerGpsMap.Droid.Resource.Drawable.segment_left_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_off = global::ManagerGpsMap.Droid.Resource.Drawable.segment_middle_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_off_pressed = global::ManagerGpsMap.Droid.Resource.Drawable.segment_middle_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_on = global::ManagerGpsMap.Droid.Resource.Drawable.segment_middle_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_off = global::ManagerGpsMap.Droid.Resource.Drawable.segment_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_off_pressed = global::ManagerGpsMap.Droid.Resource.Drawable.segment_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_on = global::ManagerGpsMap.Droid.Resource.Drawable.segment_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_left_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_left_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_middle_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_middle_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_right_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_grey_right_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_left_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_left_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_middle_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_middle_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_right_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_radio_white_right_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_off = global::ManagerGpsMap.Droid.Resource.Drawable.segment_right_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_off_pressed = global::ManagerGpsMap.Droid.Resource.Drawable.segment_right_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_on = global::ManagerGpsMap.Droid.Resource.Drawable.segment_right_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white = global::ManagerGpsMap.Droid.Resource.Drawable.segment_white;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white_focus = global::ManagerGpsMap.Droid.Resource.Drawable.segment_white_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white_press = global::ManagerGpsMap.Droid.Resource.Drawable.segment_white_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_button = global::ManagerGpsMap.Droid.Resource.Drawable.theme_dark_segment_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_left = global::ManagerGpsMap.Droid.Resource.Drawable.theme_dark_segment_radio_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_middle = global::ManagerGpsMap.Droid.Resource.Drawable.theme_dark_segment_radio_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_right = global::ManagerGpsMap.Droid.Resource.Drawable.theme_dark_segment_radio_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_button = global::ManagerGpsMap.Droid.Resource.Drawable.theme_default_segment_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_left = global::ManagerGpsMap.Droid.Resource.Drawable.theme_default_segment_radio_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_middle = global::ManagerGpsMap.Droid.Resource.Drawable.theme_default_segment_radio_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_right = global::ManagerGpsMap.Droid.Resource.Drawable.theme_default_segment_radio_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action0 = global::ManagerGpsMap.Droid.Resource.Id.action0;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar = global::ManagerGpsMap.Droid.Resource.Id.action_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_activity_content = global::ManagerGpsMap.Droid.Resource.Id.action_bar_activity_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_container = global::ManagerGpsMap.Droid.Resource.Id.action_bar_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_root = global::ManagerGpsMap.Droid.Resource.Id.action_bar_root;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_spinner = global::ManagerGpsMap.Droid.Resource.Id.action_bar_spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_subtitle = global::ManagerGpsMap.Droid.Resource.Id.action_bar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_title = global::ManagerGpsMap.Droid.Resource.Id.action_bar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_context_bar = global::ManagerGpsMap.Droid.Resource.Id.action_context_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_divider = global::ManagerGpsMap.Droid.Resource.Id.action_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_menu_divider = global::ManagerGpsMap.Droid.Resource.Id.action_menu_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_menu_presenter = global::ManagerGpsMap.Droid.Resource.Id.action_menu_presenter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_bar = global::ManagerGpsMap.Droid.Resource.Id.action_mode_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_bar_stub = global::ManagerGpsMap.Droid.Resource.Id.action_mode_bar_stub;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_close_button = global::ManagerGpsMap.Droid.Resource.Id.action_mode_close_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.activity_chooser_view_content = global::ManagerGpsMap.Droid.Resource.Id.activity_chooser_view_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.alertTitle = global::ManagerGpsMap.Droid.Resource.Id.alertTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.always = global::ManagerGpsMap.Droid.Resource.Id.always;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.beginning = global::ManagerGpsMap.Droid.Resource.Id.beginning;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.bottom = global::ManagerGpsMap.Droid.Resource.Id.bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.buttonPanel = global::ManagerGpsMap.Droid.Resource.Id.buttonPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.cancel_action = global::ManagerGpsMap.Droid.Resource.Id.cancel_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center = global::ManagerGpsMap.Droid.Resource.Id.center;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center_horizontal = global::ManagerGpsMap.Droid.Resource.Id.center_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center_vertical = global::ManagerGpsMap.Droid.Resource.Id.center_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.checkbox = global::ManagerGpsMap.Droid.Resource.Id.checkbox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.chronometer = global::ManagerGpsMap.Droid.Resource.Id.chronometer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.clip_horizontal = global::ManagerGpsMap.Droid.Resource.Id.clip_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.clip_vertical = global::ManagerGpsMap.Droid.Resource.Id.clip_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.collapseActionView = global::ManagerGpsMap.Droid.Resource.Id.collapseActionView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.contentPanel = global::ManagerGpsMap.Droid.Resource.Id.contentPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.custom = global::ManagerGpsMap.Droid.Resource.Id.custom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.customPanel = global::ManagerGpsMap.Droid.Resource.Id.customPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.decor_content_parent = global::ManagerGpsMap.Droid.Resource.Id.decor_content_parent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.default_activity_button = global::ManagerGpsMap.Droid.Resource.Id.default_activity_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_bottom_sheet = global::ManagerGpsMap.Droid.Resource.Id.design_bottom_sheet;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_action_area = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_action_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_action_area_stub = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_text = global::ManagerGpsMap.Droid.Resource.Id.design_menu_item_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_navigation_view = global::ManagerGpsMap.Droid.Resource.Id.design_navigation_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.disableHome = global::ManagerGpsMap.Droid.Resource.Id.disableHome;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.edit_query = global::ManagerGpsMap.Droid.Resource.Id.edit_query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.end = global::ManagerGpsMap.Droid.Resource.Id.end;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.end_padder = global::ManagerGpsMap.Droid.Resource.Id.end_padder;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.enterAlways = global::ManagerGpsMap.Droid.Resource.Id.enterAlways;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.enterAlwaysCollapsed = global::ManagerGpsMap.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.exitUntilCollapsed = global::ManagerGpsMap.Droid.Resource.Id.exitUntilCollapsed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.expand_activities_button = global::ManagerGpsMap.Droid.Resource.Id.expand_activities_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.expanded_menu = global::ManagerGpsMap.Droid.Resource.Id.expanded_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill = global::ManagerGpsMap.Droid.Resource.Id.fill;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill_horizontal = global::ManagerGpsMap.Droid.Resource.Id.fill_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill_vertical = global::ManagerGpsMap.Droid.Resource.Id.fill_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.@fixed = global::ManagerGpsMap.Droid.Resource.Id.@fixed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.home = global::ManagerGpsMap.Droid.Resource.Id.home;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.homeAsUp = global::ManagerGpsMap.Droid.Resource.Id.homeAsUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.icon = global::ManagerGpsMap.Droid.Resource.Id.icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.ifRoom = global::ManagerGpsMap.Droid.Resource.Id.ifRoom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.image = global::ManagerGpsMap.Droid.Resource.Id.image;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.info = global::ManagerGpsMap.Droid.Resource.Id.info;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.item_touch_helper_previous_elevation = global::ManagerGpsMap.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.left = global::ManagerGpsMap.Droid.Resource.Id.left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.leftBar = global::ManagerGpsMap.Droid.Resource.Id.leftBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.line1 = global::ManagerGpsMap.Droid.Resource.Id.line1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.line3 = global::ManagerGpsMap.Droid.Resource.Id.line3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.listMode = global::ManagerGpsMap.Droid.Resource.Id.listMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.list_item = global::ManagerGpsMap.Droid.Resource.Id.list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.media_actions = global::ManagerGpsMap.Droid.Resource.Id.media_actions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.middle = global::ManagerGpsMap.Droid.Resource.Id.middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mini = global::ManagerGpsMap.Droid.Resource.Id.mini;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_art = global::ManagerGpsMap.Droid.Resource.Id.mr_art;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_list = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_list;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_desc = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_desc;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_icon = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_name = global::ManagerGpsMap.Droid.Resource.Id.mr_chooser_route_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_close = global::ManagerGpsMap.Droid.Resource.Id.mr_close;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_divider = global::ManagerGpsMap.Droid.Resource.Id.mr_control_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_subtitle = global::ManagerGpsMap.Droid.Resource.Id.mr_control_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_title = global::ManagerGpsMap.Droid.Resource.Id.mr_control_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_title_container = global::ManagerGpsMap.Droid.Resource.Id.mr_control_title_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_custom_control = global::ManagerGpsMap.Droid.Resource.Id.mr_custom_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_default_control = global::ManagerGpsMap.Droid.Resource.Id.mr_default_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_dialog_area = global::ManagerGpsMap.Droid.Resource.Id.mr_dialog_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_expandable_area = global::ManagerGpsMap.Droid.Resource.Id.mr_expandable_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_group_expand_collapse = global::ManagerGpsMap.Droid.Resource.Id.mr_group_expand_collapse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_media_main_control = global::ManagerGpsMap.Droid.Resource.Id.mr_media_main_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_name = global::ManagerGpsMap.Droid.Resource.Id.mr_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_playback_control = global::ManagerGpsMap.Droid.Resource.Id.mr_playback_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_title_bar = global::ManagerGpsMap.Droid.Resource.Id.mr_title_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_control = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_group_list = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_group_list;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_item_icon = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_item_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_slider = global::ManagerGpsMap.Droid.Resource.Id.mr_volume_slider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.multiply = global::ManagerGpsMap.Droid.Resource.Id.multiply;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.navigation_header_container = global::ManagerGpsMap.Droid.Resource.Id.navigation_header_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.never = global::ManagerGpsMap.Droid.Resource.Id.never;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.none = global::ManagerGpsMap.Droid.Resource.Id.none;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.normal = global::ManagerGpsMap.Droid.Resource.Id.normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.parallax = global::ManagerGpsMap.Droid.Resource.Id.parallax;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.parentPanel = global::ManagerGpsMap.Droid.Resource.Id.parentPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.pin = global::ManagerGpsMap.Droid.Resource.Id.pin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.progress_circular = global::ManagerGpsMap.Droid.Resource.Id.progress_circular;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.progress_horizontal = global::ManagerGpsMap.Droid.Resource.Id.progress_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.radio = global::ManagerGpsMap.Droid.Resource.Id.radio;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.right = global::ManagerGpsMap.Droid.Resource.Id.right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.rightBar = global::ManagerGpsMap.Droid.Resource.Id.rightBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.screen = global::ManagerGpsMap.Droid.Resource.Id.screen;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scroll = global::ManagerGpsMap.Droid.Resource.Id.scroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollIndicatorDown = global::ManagerGpsMap.Droid.Resource.Id.scrollIndicatorDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollIndicatorUp = global::ManagerGpsMap.Droid.Resource.Id.scrollIndicatorUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollView = global::ManagerGpsMap.Droid.Resource.Id.scrollView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollable = global::ManagerGpsMap.Droid.Resource.Id.scrollable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_badge = global::ManagerGpsMap.Droid.Resource.Id.search_badge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_bar = global::ManagerGpsMap.Droid.Resource.Id.search_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_button = global::ManagerGpsMap.Droid.Resource.Id.search_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_close_btn = global::ManagerGpsMap.Droid.Resource.Id.search_close_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_edit_frame = global::ManagerGpsMap.Droid.Resource.Id.search_edit_frame;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_go_btn = global::ManagerGpsMap.Droid.Resource.Id.search_go_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_mag_icon = global::ManagerGpsMap.Droid.Resource.Id.search_mag_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_plate = global::ManagerGpsMap.Droid.Resource.Id.search_plate;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_src_text = global::ManagerGpsMap.Droid.Resource.Id.search_src_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_voice_btn = global::ManagerGpsMap.Droid.Resource.Id.search_voice_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.select_dialog_listview = global::ManagerGpsMap.Droid.Resource.Id.select_dialog_listview;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.shortcut = global::ManagerGpsMap.Droid.Resource.Id.shortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showCustom = global::ManagerGpsMap.Droid.Resource.Id.showCustom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showHome = global::ManagerGpsMap.Droid.Resource.Id.showHome;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showTitle = global::ManagerGpsMap.Droid.Resource.Id.showTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snackbar_action = global::ManagerGpsMap.Droid.Resource.Id.snackbar_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snackbar_text = global::ManagerGpsMap.Droid.Resource.Id.snackbar_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snap = global::ManagerGpsMap.Droid.Resource.Id.snap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.spacer = global::ManagerGpsMap.Droid.Resource.Id.spacer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.split_action_bar = global::ManagerGpsMap.Droid.Resource.Id.split_action_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_atop = global::ManagerGpsMap.Droid.Resource.Id.src_atop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_in = global::ManagerGpsMap.Droid.Resource.Id.src_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_over = global::ManagerGpsMap.Droid.Resource.Id.src_over;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.start = global::ManagerGpsMap.Droid.Resource.Id.start;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.status_bar_latest_event_content = global::ManagerGpsMap.Droid.Resource.Id.status_bar_latest_event_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.submit_area = global::ManagerGpsMap.Droid.Resource.Id.submit_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.swipetorefreshbar = global::ManagerGpsMap.Droid.Resource.Id.swipetorefreshbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.tabMode = global::ManagerGpsMap.Droid.Resource.Id.tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.text = global::ManagerGpsMap.Droid.Resource.Id.text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.text2 = global::ManagerGpsMap.Droid.Resource.Id.text2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.textSpacerNoButtons = global::ManagerGpsMap.Droid.Resource.Id.textSpacerNoButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.time = global::ManagerGpsMap.Droid.Resource.Id.time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.title = global::ManagerGpsMap.Droid.Resource.Id.title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.title_template = global::ManagerGpsMap.Droid.Resource.Id.title_template;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.top = global::ManagerGpsMap.Droid.Resource.Id.top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.topPanel = global::ManagerGpsMap.Droid.Resource.Id.topPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.touch_outside = global::ManagerGpsMap.Droid.Resource.Id.touch_outside;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.up = global::ManagerGpsMap.Droid.Resource.Id.up;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.useLogo = global::ManagerGpsMap.Droid.Resource.Id.useLogo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.view_offset_helper = global::ManagerGpsMap.Droid.Resource.Id.view_offset_helper;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.volume_item_container = global::ManagerGpsMap.Droid.Resource.Id.volume_item_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.withText = global::ManagerGpsMap.Droid.Resource.Id.withText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.wrap_content = global::ManagerGpsMap.Droid.Resource.Id.wrap_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.abc_config_activityDefaultDur = global::ManagerGpsMap.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.abc_config_activityShortDur = global::ManagerGpsMap.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.bottom_sheet_slide_duration = global::ManagerGpsMap.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.cancel_button_image_alpha = global::ManagerGpsMap.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.design_snackbar_text_max_lines = global::ManagerGpsMap.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::ManagerGpsMap.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.status_bar_notification_info_maxnum = global::ManagerGpsMap.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Interpolator.mr_fast_out_slow_in = global::ManagerGpsMap.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Interpolator.mr_linear_out_slow_in = global::ManagerGpsMap.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_title_item = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_up_container = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_menu_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_menu_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_mode_bar = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_mode_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_mode_close_item_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_activity_chooser_view = global::ManagerGpsMap.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::ManagerGpsMap.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_alert_dialog_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_dialog_title_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_dialog_title_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_expanded_menu_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_checkbox = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_icon = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_radio = global::ManagerGpsMap.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_popup_menu_item_layout = global::ManagerGpsMap.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_content_include = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_content_include;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_simple = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_simple;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_toolbar = global::ManagerGpsMap.Droid.Resource.Layout.abc_screen_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ManagerGpsMap.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_search_view = global::ManagerGpsMap.Droid.Resource.Layout.abc_search_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_select_dialog_material = global::ManagerGpsMap.Droid.Resource.Layout.abc_select_dialog_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_bottom_sheet_dialog = global::ManagerGpsMap.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_snackbar = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_snackbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_snackbar_include = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_tab_icon = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_tab_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_tab_text = global::ManagerGpsMap.Droid.Resource.Layout.design_layout_tab_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_menu_item_action_area = global::ManagerGpsMap.Droid.Resource.Layout.design_menu_item_action_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_header = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_header;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_separator = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_separator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_subheader = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_menu = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_menu_item = global::ManagerGpsMap.Droid.Resource.Layout.design_navigation_menu_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_chooser_dialog = global::ManagerGpsMap.Droid.Resource.Layout.mr_chooser_dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_chooser_list_item = global::ManagerGpsMap.Droid.Resource.Layout.mr_chooser_list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_controller_material_dialog_b = global::ManagerGpsMap.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_controller_volume_item = global::ManagerGpsMap.Droid.Resource.Layout.mr_controller_volume_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_playback_control = global::ManagerGpsMap.Droid.Resource.Layout.mr_playback_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_volume_control = global::ManagerGpsMap.Droid.Resource.Layout.mr_volume_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_media_action = global::ManagerGpsMap.Droid.Resource.Layout.notification_media_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_media_cancel_action = global::ManagerGpsMap.Droid.Resource.Layout.notification_media_cancel_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_big_media = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_big_media;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_big_media_narrow = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_media = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_media;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_part_chronometer = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_part_time = global::ManagerGpsMap.Droid.Resource.Layout.notification_template_part_time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_item_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_item_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_multichoice_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_singlechoice_material = global::ManagerGpsMap.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::ManagerGpsMap.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_description_format = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_up_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_bar_up_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_menu_overflow_description = global::ManagerGpsMap.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_mode_done = global::ManagerGpsMap.Droid.Resource.String.abc_action_mode_done;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_activity_chooser_view_see_all = global::ManagerGpsMap.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_activitychooserview_choose_application = global::ManagerGpsMap.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_capital_off = global::ManagerGpsMap.Droid.Resource.String.abc_capital_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_capital_on = global::ManagerGpsMap.Droid.Resource.String.abc_capital_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_search_hint = global::ManagerGpsMap.Droid.Resource.String.abc_search_hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_clear = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_clear;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_query = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_search = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_search;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_submit = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_submit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_voice = global::ManagerGpsMap.Droid.Resource.String.abc_searchview_description_voice;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_shareactionprovider_share_with = global::ManagerGpsMap.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_shareactionprovider_share_with_application = global::ManagerGpsMap.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_toolbar_collapse_description = global::ManagerGpsMap.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.appbar_scrolling_view_behavior = global::ManagerGpsMap.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.bottom_sheet_behavior = global::ManagerGpsMap.Droid.Resource.String.bottom_sheet_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.character_counter_pattern = global::ManagerGpsMap.Droid.Resource.String.character_counter_pattern;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.library_name = global::ManagerGpsMap.Droid.Resource.String.library_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_button_content_description = global::ManagerGpsMap.Droid.Resource.String.mr_button_content_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_chooser_searching = global::ManagerGpsMap.Droid.Resource.String.mr_chooser_searching;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_chooser_title = global::ManagerGpsMap.Droid.Resource.String.mr_chooser_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_casting_screen = global::ManagerGpsMap.Droid.Resource.String.mr_controller_casting_screen;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_close_description = global::ManagerGpsMap.Droid.Resource.String.mr_controller_close_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_collapse_group = global::ManagerGpsMap.Droid.Resource.String.mr_controller_collapse_group;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_disconnect = global::ManagerGpsMap.Droid.Resource.String.mr_controller_disconnect;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_expand_group = global::ManagerGpsMap.Droid.Resource.String.mr_controller_expand_group;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_no_info_available = global::ManagerGpsMap.Droid.Resource.String.mr_controller_no_info_available;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_no_media_selected = global::ManagerGpsMap.Droid.Resource.String.mr_controller_no_media_selected;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_pause = global::ManagerGpsMap.Droid.Resource.String.mr_controller_pause;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_play = global::ManagerGpsMap.Droid.Resource.String.mr_controller_play;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_stop = global::ManagerGpsMap.Droid.Resource.String.mr_controller_stop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_system_route_name = global::ManagerGpsMap.Droid.Resource.String.mr_system_route_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_user_route_category_name = global::ManagerGpsMap.Droid.Resource.String.mr_user_route_category_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.status_bar_notification_info_overflow = global::ManagerGpsMap.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.AlertDialog_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.AlertDialog_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::ManagerGpsMap.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_AlertDialog_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ManagerGpsMap.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_CardView = global::ManagerGpsMap.Droid.Resource.Style.Base_CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ManagerGpsMap.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V22_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V23_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_Design_TabLayout = global::ManagerGpsMap.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView = global::ManagerGpsMap.Droid.Resource.Style.CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView_Dark = global::ManagerGpsMap.Droid.Resource.Style.CardView_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView_Light = global::ManagerGpsMap.Droid.Resource.Style.CardView_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenu = global::ManagerGpsMap.Droid.Resource.Style.DarkPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenuTextAppearanceLarge = global::ManagerGpsMap.Droid.Resource.Style.DarkPopupMenuTextAppearanceLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenuTextAppearanceSmall = global::ManagerGpsMap.Droid.Resource.Style.DarkPopupMenuTextAppearanceSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.GridThemeDark = global::ManagerGpsMap.Droid.Resource.Style.GridThemeDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.GridThemeLight = global::ManagerGpsMap.Droid.Resource.Style.GridThemeLight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenu = global::ManagerGpsMap.Droid.Resource.Style.LightPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenuTextAppearanceLarge = global::ManagerGpsMap.Droid.Resource.Style.LightPopupMenuTextAppearanceLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenuTextAppearanceSmall = global::ManagerGpsMap.Droid.Resource.Style.LightPopupMenuTextAppearanceSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V11_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V11_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V14_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V14_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ManagerGpsMap.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Counter = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Error = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Hint = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Tab = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ManagerGpsMap.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_NoActionBar = global::ManagerGpsMap.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_Light = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::ManagerGpsMap.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::ManagerGpsMap.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Small = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_EditText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ImageButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SearchView = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SeekBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Toolbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ManagerGpsMap.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_AppBarLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_FloatingActionButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_NavigationView = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_Snackbar = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_TabLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_TextInputLayout = global::ManagerGpsMap.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_background = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_backgroundSplit = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_backgroundStacked = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetRight = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetStart = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_displayOptions = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_divider = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_height = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_homeLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_icon = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_itemPadding = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_logo = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_navigationMode = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_progressBarPadding = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_progressBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_subtitle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_title = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_titleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuItemView = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuItemView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuView = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMenuView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_background = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_backgroundSplit = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_closeItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_height = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_titleTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ManagerGpsMap.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_listItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_listLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_expanded = global::ManagerGpsMap.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView_android_src = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ManagerGpsMap.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ButtonBarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ButtonBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::ManagerGpsMap.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView = global::ManagerGpsMap.Droid.Resource.Styleable.CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardBackgroundColor = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardCornerRadius = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardElevation = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardMaxElevation = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPadding = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingBottom = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingLeft = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingRight = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingTop = global::ManagerGpsMap.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::ManagerGpsMap.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_android_button = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_buttonTint = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_keylines = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::ManagerGpsMap.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_textColorError = global::ManagerGpsMap.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_color = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::ManagerGpsMap.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_fabSize = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::ManagerGpsMap.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::ManagerGpsMap.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_divider = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ManagerGpsMap.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ManagerGpsMap.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::ManagerGpsMap.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_enabled = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_visible = global::ManagerGpsMap.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionLayout = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionProviderClass = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionViewClass = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_checkable = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_checked = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_enabled = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_icon = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_menuCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_onClick = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_title = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_visible = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_showAsAction = global::ManagerGpsMap.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_headerBackground = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_verticalDivider = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::ManagerGpsMap.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_headerLayout = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemBackground = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemIconTint = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_menu = global::ManagerGpsMap.Droid.Resource.Styleable.NavigationView_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindowBackgroundState = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ManagerGpsMap.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_android_orientation = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_layoutManager = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_reverseLayout = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_spanCount = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::ManagerGpsMap.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::ManagerGpsMap.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::ManagerGpsMap.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_focusable = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_imeOptions = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_inputType = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_closeIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_commitIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_defaultQueryHint = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_goIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_goIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_layout = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_queryBackground = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_queryHint = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_queryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_searchHintIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_searchIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_submitBackground = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_voiceIcon = global::ManagerGpsMap.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_elevation = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_entries = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_entries;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_popupBackground = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_prompt = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_textOff = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_textOn = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_thumb = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_showText = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_splitTrack = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchPadding = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_track = global::ManagerGpsMap.Droid.Resource.Styleable.SwitchCompat_track;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_icon = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_text = global::ManagerGpsMap.Droid.Resource.Styleable.TabItem_android_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabBackground = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabContentStart = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabGravity = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMinWidth = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMode = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPadding = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textColor = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textSize = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textStyle = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_typeface = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_textAllCaps = global::ManagerGpsMap.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_android_hint = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_android_gravity = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_android_minHeight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_collapseIcon = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetRight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetStart = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_logo = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_logoDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_navigationIcon = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_popupTheme = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitle = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_title = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginStart = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginTop = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMargins = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleTextColor = global::ManagerGpsMap.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View = global::ManagerGpsMap.Droid.Resource.Styleable.View;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_android_focusable = global::ManagerGpsMap.Droid.Resource.Styleable.View_android_focusable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_android_theme = global::ManagerGpsMap.Droid.Resource.Styleable.View_android_theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_paddingEnd = global::ManagerGpsMap.Droid.Resource.Styleable.View_paddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_paddingStart = global::ManagerGpsMap.Droid.Resource.Styleable.View_paddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_theme = global::ManagerGpsMap.Droid.Resource.Styleable.View_theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ManagerGpsMap.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_id = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ManagerGpsMap.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::ManagerGpsMap.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -2902,44 +6236,44 @@ namespace ManagerGpsMap.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0c0053
-			public const int abc_background_cache_hint_selector_material_dark = 2131492947;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int abc_background_cache_hint_selector_material_light = 2131492948;
-			
-			// aapt resource value: 0x7f0c0055
-			public const int abc_btn_colored_borderless_text_material = 2131492949;
-			
-			// aapt resource value: 0x7f0c0056
-			public const int abc_btn_colored_text_material = 2131492950;
-			
-			// aapt resource value: 0x7f0c0057
-			public const int abc_color_highlight_material = 2131492951;
-			
 			// aapt resource value: 0x7f0c0058
-			public const int abc_hint_foreground_material_dark = 2131492952;
+			public const int abc_background_cache_hint_selector_material_dark = 2131492952;
 			
 			// aapt resource value: 0x7f0c0059
-			public const int abc_hint_foreground_material_light = 2131492953;
+			public const int abc_background_cache_hint_selector_material_light = 2131492953;
+			
+			// aapt resource value: 0x7f0c005a
+			public const int abc_btn_colored_borderless_text_material = 2131492954;
+			
+			// aapt resource value: 0x7f0c005b
+			public const int abc_btn_colored_text_material = 2131492955;
+			
+			// aapt resource value: 0x7f0c005c
+			public const int abc_color_highlight_material = 2131492956;
+			
+			// aapt resource value: 0x7f0c005d
+			public const int abc_hint_foreground_material_dark = 2131492957;
+			
+			// aapt resource value: 0x7f0c005e
+			public const int abc_hint_foreground_material_light = 2131492958;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int abc_input_method_navigation_guard = 2131492869;
 			
-			// aapt resource value: 0x7f0c005a
-			public const int abc_primary_text_disable_only_material_dark = 2131492954;
+			// aapt resource value: 0x7f0c005f
+			public const int abc_primary_text_disable_only_material_dark = 2131492959;
 			
-			// aapt resource value: 0x7f0c005b
-			public const int abc_primary_text_disable_only_material_light = 2131492955;
+			// aapt resource value: 0x7f0c0060
+			public const int abc_primary_text_disable_only_material_light = 2131492960;
 			
-			// aapt resource value: 0x7f0c005c
-			public const int abc_primary_text_material_dark = 2131492956;
+			// aapt resource value: 0x7f0c0061
+			public const int abc_primary_text_material_dark = 2131492961;
 			
-			// aapt resource value: 0x7f0c005d
-			public const int abc_primary_text_material_light = 2131492957;
+			// aapt resource value: 0x7f0c0062
+			public const int abc_primary_text_material_light = 2131492962;
 			
-			// aapt resource value: 0x7f0c005e
-			public const int abc_search_url_text = 2131492958;
+			// aapt resource value: 0x7f0c0063
+			public const int abc_search_url_text = 2131492963;
 			
 			// aapt resource value: 0x7f0c0006
 			public const int abc_search_url_text_normal = 2131492870;
@@ -2950,35 +6284,35 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c0008
 			public const int abc_search_url_text_selected = 2131492872;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int abc_secondary_text_material_dark = 2131492959;
-			
-			// aapt resource value: 0x7f0c0060
-			public const int abc_secondary_text_material_light = 2131492960;
-			
-			// aapt resource value: 0x7f0c0061
-			public const int abc_tint_btn_checkable = 2131492961;
-			
-			// aapt resource value: 0x7f0c0062
-			public const int abc_tint_default = 2131492962;
-			
-			// aapt resource value: 0x7f0c0063
-			public const int abc_tint_edittext = 2131492963;
-			
 			// aapt resource value: 0x7f0c0064
-			public const int abc_tint_seek_thumb = 2131492964;
+			public const int abc_secondary_text_material_dark = 2131492964;
 			
 			// aapt resource value: 0x7f0c0065
-			public const int abc_tint_spinner = 2131492965;
+			public const int abc_secondary_text_material_light = 2131492965;
 			
 			// aapt resource value: 0x7f0c0066
-			public const int abc_tint_switch_thumb = 2131492966;
+			public const int abc_tint_btn_checkable = 2131492966;
 			
 			// aapt resource value: 0x7f0c0067
-			public const int abc_tint_switch_track = 2131492967;
+			public const int abc_tint_default = 2131492967;
 			
-			// aapt resource value: 0x7f0c0050
-			public const int accent = 2131492944;
+			// aapt resource value: 0x7f0c0068
+			public const int abc_tint_edittext = 2131492968;
+			
+			// aapt resource value: 0x7f0c0069
+			public const int abc_tint_seek_thumb = 2131492969;
+			
+			// aapt resource value: 0x7f0c006a
+			public const int abc_tint_spinner = 2131492970;
+			
+			// aapt resource value: 0x7f0c006b
+			public const int abc_tint_switch_thumb = 2131492971;
+			
+			// aapt resource value: 0x7f0c006c
+			public const int abc_tint_switch_track = 2131492972;
+			
+			// aapt resource value: 0x7f0c0055
+			public const int accent = 2131492949;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int accent_material_dark = 2131492873;
@@ -2998,17 +6332,23 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c000e
 			public const int background_material_light = 2131492878;
 			
-			// aapt resource value: 0x7f0c004c
-			public const int bb_darkBackgroundColor = 2131492940;
+			// aapt resource value: 0x7f0c0051
+			public const int bb_darkBackgroundColor = 2131492945;
 			
-			// aapt resource value: 0x7f0c004b
-			public const int bb_darkInActiveBottomBarItemColor = 2131492939;
+			// aapt resource value: 0x7f0c0050
+			public const int bb_darkInActiveBottomBarItemColor = 2131492944;
+			
+			// aapt resource value: 0x7f0c004f
+			public const int bb_inActiveBottomBarItemColor = 2131492943;
+			
+			// aapt resource value: 0x7f0c0052
+			public const int bb_tabletRightBorderDark = 2131492946;
 			
 			// aapt resource value: 0x7f0c004a
-			public const int bb_inActiveBottomBarItemColor = 2131492938;
+			public const int black = 2131492938;
 			
-			// aapt resource value: 0x7f0c004d
-			public const int bb_tabletRightBorderDark = 2131492941;
+			// aapt resource value: 0x7f0c004b
+			public const int blue = 2131492939;
 			
 			// aapt resource value: 0x7f0c000f
 			public const int bright_foreground_disabled_material_dark = 2131492879;
@@ -3049,8 +6389,8 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c003f
 			public const int design_bottom_navigation_shadow_color = 2131492927;
 			
-			// aapt resource value: 0x7f0c0068
-			public const int design_error = 2131492968;
+			// aapt resource value: 0x7f0c006d
+			public const int design_error = 2131492973;
 			
 			// aapt resource value: 0x7f0c0040
 			public const int design_fab_shadow_end_color = 2131492928;
@@ -3082,8 +6422,8 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c0049
 			public const int design_textinput_error_color_light = 2131492937;
 			
-			// aapt resource value: 0x7f0c0069
-			public const int design_tint_password_toggle = 2131492969;
+			// aapt resource value: 0x7f0c006e
+			public const int design_tint_password_toggle = 2131492974;
 			
 			// aapt resource value: 0x7f0c0017
 			public const int dim_foreground_disabled_material_dark = 2131492887;
@@ -3102,6 +6442,12 @@ namespace ManagerGpsMap.Droid
 			
 			// aapt resource value: 0x7f0c001c
 			public const int foreground_material_light = 2131492892;
+			
+			// aapt resource value: 0x7f0c004e
+			public const int gray = 2131492942;
+			
+			// aapt resource value: 0x7f0c004d
+			public const int green = 2131492941;
 			
 			// aapt resource value: 0x7f0c001d
 			public const int highlighted_text_material_dark = 2131492893;
@@ -3154,11 +6500,11 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c002c
 			public const int notification_material_background_media_default_color = 2131492908;
 			
-			// aapt resource value: 0x7f0c004e
-			public const int primary = 2131492942;
+			// aapt resource value: 0x7f0c0053
+			public const int primary = 2131492947;
 			
-			// aapt resource value: 0x7f0c004f
-			public const int primaryDark = 2131492943;
+			// aapt resource value: 0x7f0c0054
+			public const int primaryDark = 2131492948;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int primary_dark_material_dark = 2131492909;
@@ -3184,6 +6530,9 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c0034
 			public const int primary_text_disabled_material_light = 2131492916;
 			
+			// aapt resource value: 0x7f0c004c
+			public const int red = 2131492940;
+			
 			// aapt resource value: 0x7f0c0035
 			public const int ripple_material_dark = 2131492917;
 			
@@ -3202,8 +6551,8 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c003a
 			public const int secondary_text_disabled_material_light = 2131492922;
 			
-			// aapt resource value: 0x7f0c0052
-			public const int splash_background = 2131492946;
+			// aapt resource value: 0x7f0c0057
+			public const int splash_background = 2131492951;
 			
 			// aapt resource value: 0x7f0c003b
 			public const int switch_thumb_disabled_material_dark = 2131492923;
@@ -3211,11 +6560,11 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c003c
 			public const int switch_thumb_disabled_material_light = 2131492924;
 			
-			// aapt resource value: 0x7f0c006a
-			public const int switch_thumb_material_dark = 2131492970;
+			// aapt resource value: 0x7f0c006f
+			public const int switch_thumb_material_dark = 2131492975;
 			
-			// aapt resource value: 0x7f0c006b
-			public const int switch_thumb_material_light = 2131492971;
+			// aapt resource value: 0x7f0c0070
+			public const int switch_thumb_material_light = 2131492976;
 			
 			// aapt resource value: 0x7f0c003d
 			public const int switch_thumb_normal_material_dark = 2131492925;
@@ -3223,8 +6572,14 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0c003e
 			public const int switch_thumb_normal_material_light = 2131492926;
 			
-			// aapt resource value: 0x7f0c0051
-			public const int window_background = 2131492945;
+			// aapt resource value: 0x7f0c0071
+			public const int theme_dark_segmented_radio_button_text = 2131492977;
+			
+			// aapt resource value: 0x7f0c0072
+			public const int theme_default_segmented_radio_button_text = 2131492978;
+			
+			// aapt resource value: 0x7f0c0056
+			public const int window_background = 2131492950;
 			
 			static Color()
 			{
@@ -3960,26 +7315,26 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020116
-			public const int avd_hide_password_1 = 2130837782;
+			// aapt resource value: 0x7f020142
+			public const int avd_hide_password_1 = 2130837826;
 			
-			// aapt resource value: 0x7f020117
-			public const int avd_hide_password_2 = 2130837783;
+			// aapt resource value: 0x7f020143
+			public const int avd_hide_password_2 = 2130837827;
 			
-			// aapt resource value: 0x7f020118
-			public const int avd_hide_password_3 = 2130837784;
+			// aapt resource value: 0x7f020144
+			public const int avd_hide_password_3 = 2130837828;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020119
-			public const int avd_show_password_1 = 2130837785;
+			// aapt resource value: 0x7f020145
+			public const int avd_show_password_1 = 2130837829;
 			
-			// aapt resource value: 0x7f02011a
-			public const int avd_show_password_2 = 2130837786;
+			// aapt resource value: 0x7f020146
+			public const int avd_show_password_2 = 2130837830;
 			
-			// aapt resource value: 0x7f02011b
-			public const int avd_show_password_3 = 2130837787;
+			// aapt resource value: 0x7f020147
+			public const int avd_show_password_3 = 2130837831;
 			
 			// aapt resource value: 0x7f020055
 			public const int Background = 2130837589;
@@ -4545,11 +7900,11 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f020110
 			public const int notification_icon_background = 2130837776;
 			
-			// aapt resource value: 0x7f020114
-			public const int notification_template_icon_bg = 2130837780;
+			// aapt resource value: 0x7f020140
+			public const int notification_template_icon_bg = 2130837824;
 			
-			// aapt resource value: 0x7f020115
-			public const int notification_template_icon_low_bg = 2130837781;
+			// aapt resource value: 0x7f020141
+			public const int notification_template_icon_low_bg = 2130837825;
 			
 			// aapt resource value: 0x7f020111
 			public const int notification_tile_bg = 2130837777;
@@ -4558,7 +7913,139 @@ namespace ManagerGpsMap.Droid
 			public const int notify_panel_notification_icon_bg = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int xamarin_logo = 2130837779;
+			public const int segment_grey = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int segment_grey_focus = 2130837780;
+			
+			// aapt resource value: 0x7f020115
+			public const int segment_grey_press = 2130837781;
+			
+			// aapt resource value: 0x7f020116
+			public const int segment_left_off = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int segment_left_off_pressed = 2130837783;
+			
+			// aapt resource value: 0x7f020118
+			public const int segment_left_on = 2130837784;
+			
+			// aapt resource value: 0x7f020119
+			public const int segment_middle_off = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int segment_middle_off_pressed = 2130837786;
+			
+			// aapt resource value: 0x7f02011b
+			public const int segment_middle_on = 2130837787;
+			
+			// aapt resource value: 0x7f02011c
+			public const int segment_off = 2130837788;
+			
+			// aapt resource value: 0x7f02011d
+			public const int segment_off_pressed = 2130837789;
+			
+			// aapt resource value: 0x7f02011e
+			public const int segment_on = 2130837790;
+			
+			// aapt resource value: 0x7f02011f
+			public const int segment_radio_grey_left = 2130837791;
+			
+			// aapt resource value: 0x7f020120
+			public const int segment_radio_grey_left_focus = 2130837792;
+			
+			// aapt resource value: 0x7f020121
+			public const int segment_radio_grey_left_press = 2130837793;
+			
+			// aapt resource value: 0x7f020122
+			public const int segment_radio_grey_middle = 2130837794;
+			
+			// aapt resource value: 0x7f020123
+			public const int segment_radio_grey_middle_focus = 2130837795;
+			
+			// aapt resource value: 0x7f020124
+			public const int segment_radio_grey_middle_press = 2130837796;
+			
+			// aapt resource value: 0x7f020125
+			public const int segment_radio_grey_right = 2130837797;
+			
+			// aapt resource value: 0x7f020126
+			public const int segment_radio_grey_right_focus = 2130837798;
+			
+			// aapt resource value: 0x7f020127
+			public const int segment_radio_grey_right_press = 2130837799;
+			
+			// aapt resource value: 0x7f020128
+			public const int segment_radio_white_left = 2130837800;
+			
+			// aapt resource value: 0x7f020129
+			public const int segment_radio_white_left_focus = 2130837801;
+			
+			// aapt resource value: 0x7f02012a
+			public const int segment_radio_white_left_press = 2130837802;
+			
+			// aapt resource value: 0x7f02012b
+			public const int segment_radio_white_middle = 2130837803;
+			
+			// aapt resource value: 0x7f02012c
+			public const int segment_radio_white_middle_focus = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int segment_radio_white_middle_press = 2130837805;
+			
+			// aapt resource value: 0x7f02012e
+			public const int segment_radio_white_right = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int segment_radio_white_right_focus = 2130837807;
+			
+			// aapt resource value: 0x7f020130
+			public const int segment_radio_white_right_press = 2130837808;
+			
+			// aapt resource value: 0x7f020131
+			public const int segment_right_off = 2130837809;
+			
+			// aapt resource value: 0x7f020132
+			public const int segment_right_off_pressed = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int segment_right_on = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int segment_white = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int segment_white_focus = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int segment_white_press = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int theme_dark_segment_button = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int theme_dark_segment_radio_left = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int theme_dark_segment_radio_middle = 2130837817;
+			
+			// aapt resource value: 0x7f02013a
+			public const int theme_dark_segment_radio_right = 2130837818;
+			
+			// aapt resource value: 0x7f02013b
+			public const int theme_default_segment_button = 2130837819;
+			
+			// aapt resource value: 0x7f02013c
+			public const int theme_default_segment_radio_left = 2130837820;
+			
+			// aapt resource value: 0x7f02013d
+			public const int theme_default_segment_radio_middle = 2130837821;
+			
+			// aapt resource value: 0x7f02013e
+			public const int theme_default_segment_radio_right = 2130837822;
+			
+			// aapt resource value: 0x7f02013f
+			public const int xamarin_logo = 2130837823;
 			
 			static Drawable()
 			{
@@ -4573,41 +8060,41 @@ namespace ManagerGpsMap.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0800a7
-			public const int action0 = 2131230887;
+			// aapt resource value: 0x7f0800aa
+			public const int action0 = 2131230890;
 			
-			// aapt resource value: 0x7f080064
-			public const int action_bar = 2131230820;
+			// aapt resource value: 0x7f080067
+			public const int action_bar = 2131230823;
 			
 			// aapt resource value: 0x7f080001
 			public const int action_bar_activity_content = 2131230721;
 			
-			// aapt resource value: 0x7f080063
-			public const int action_bar_container = 2131230819;
+			// aapt resource value: 0x7f080066
+			public const int action_bar_container = 2131230822;
 			
-			// aapt resource value: 0x7f08005f
-			public const int action_bar_root = 2131230815;
+			// aapt resource value: 0x7f080062
+			public const int action_bar_root = 2131230818;
 			
 			// aapt resource value: 0x7f080002
 			public const int action_bar_spinner = 2131230722;
 			
-			// aapt resource value: 0x7f080042
-			public const int action_bar_subtitle = 2131230786;
+			// aapt resource value: 0x7f080045
+			public const int action_bar_subtitle = 2131230789;
 			
-			// aapt resource value: 0x7f080041
-			public const int action_bar_title = 2131230785;
+			// aapt resource value: 0x7f080044
+			public const int action_bar_title = 2131230788;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int action_container = 2131230884;
+			// aapt resource value: 0x7f0800a7
+			public const int action_container = 2131230887;
 			
-			// aapt resource value: 0x7f080065
-			public const int action_context_bar = 2131230821;
+			// aapt resource value: 0x7f080068
+			public const int action_context_bar = 2131230824;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int action_divider = 2131230891;
+			// aapt resource value: 0x7f0800ae
+			public const int action_divider = 2131230894;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int action_image = 2131230885;
+			// aapt resource value: 0x7f0800a8
+			public const int action_image = 2131230888;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -4615,338 +8102,341 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f080004
 			public const int action_menu_presenter = 2131230724;
 			
-			// aapt resource value: 0x7f080061
-			public const int action_mode_bar = 2131230817;
+			// aapt resource value: 0x7f080064
+			public const int action_mode_bar = 2131230820;
 			
-			// aapt resource value: 0x7f080060
-			public const int action_mode_bar_stub = 2131230816;
+			// aapt resource value: 0x7f080063
+			public const int action_mode_bar_stub = 2131230819;
 			
-			// aapt resource value: 0x7f080043
-			public const int action_mode_close_button = 2131230787;
+			// aapt resource value: 0x7f080046
+			public const int action_mode_close_button = 2131230790;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int action_text = 2131230886;
+			// aapt resource value: 0x7f0800a9
+			public const int action_text = 2131230889;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int actions = 2131230900;
-			
-			// aapt resource value: 0x7f080044
-			public const int activity_chooser_view_content = 2131230788;
-			
-			// aapt resource value: 0x7f08001e
-			public const int add = 2131230750;
-			
-			// aapt resource value: 0x7f080058
-			public const int alertTitle = 2131230808;
-			
-			// aapt resource value: 0x7f08003d
-			public const int all = 2131230781;
-			
-			// aapt resource value: 0x7f080023
-			public const int always = 2131230755;
-			
-			// aapt resource value: 0x7f08002f
-			public const int auto = 2131230767;
-			
-			// aapt resource value: 0x7f080077
-			public const int bb_bottom_bar_background_overlay = 2131230839;
-			
-			// aapt resource value: 0x7f080076
-			public const int bb_bottom_bar_background_view = 2131230838;
-			
-			// aapt resource value: 0x7f08007a
-			public const int bb_bottom_bar_icon = 2131230842;
-			
-			// aapt resource value: 0x7f080078
-			public const int bb_bottom_bar_item_container = 2131230840;
-			
-			// aapt resource value: 0x7f080074
-			public const int bb_bottom_bar_outer_container = 2131230836;
-			
-			// aapt resource value: 0x7f080075
-			public const int bb_bottom_bar_shadow = 2131230837;
-			
-			// aapt resource value: 0x7f08007b
-			public const int bb_bottom_bar_title = 2131230843;
-			
-			// aapt resource value: 0x7f080079
-			public const int bb_tablet_right_border = 2131230841;
-			
-			// aapt resource value: 0x7f080073
-			public const int bb_user_content_container = 2131230835;
-			
-			// aapt resource value: 0x7f080020
-			public const int beginning = 2131230752;
-			
-			// aapt resource value: 0x7f080028
-			public const int bottom = 2131230760;
-			
-			// aapt resource value: 0x7f08004b
-			public const int buttonPanel = 2131230795;
-			
-			// aapt resource value: 0x7f0800a8
-			public const int cancel_action = 2131230888;
-			
-			// aapt resource value: 0x7f080030
-			public const int center = 2131230768;
-			
-			// aapt resource value: 0x7f080031
-			public const int center_horizontal = 2131230769;
-			
-			// aapt resource value: 0x7f080032
-			public const int center_vertical = 2131230770;
-			
-			// aapt resource value: 0x7f08005b
-			public const int checkbox = 2131230811;
-			
-			// aapt resource value: 0x7f0800b0
-			public const int chronometer = 2131230896;
-			
-			// aapt resource value: 0x7f080039
-			public const int clip_horizontal = 2131230777;
-			
-			// aapt resource value: 0x7f08003a
-			public const int clip_vertical = 2131230778;
-			
-			// aapt resource value: 0x7f080024
-			public const int collapseActionView = 2131230756;
-			
-			// aapt resource value: 0x7f08007e
-			public const int container = 2131230846;
-			
-			// aapt resource value: 0x7f08004e
-			public const int contentPanel = 2131230798;
-			
-			// aapt resource value: 0x7f08007f
-			public const int coordinator = 2131230847;
-			
-			// aapt resource value: 0x7f080055
-			public const int custom = 2131230805;
-			
-			// aapt resource value: 0x7f080054
-			public const int customPanel = 2131230804;
-			
-			// aapt resource value: 0x7f080062
-			public const int decor_content_parent = 2131230818;
+			// aapt resource value: 0x7f0800b7
+			public const int actions = 2131230903;
 			
 			// aapt resource value: 0x7f080047
-			public const int default_activity_button = 2131230791;
-			
-			// aapt resource value: 0x7f080081
-			public const int design_bottom_sheet = 2131230849;
-			
-			// aapt resource value: 0x7f080088
-			public const int design_menu_item_action_area = 2131230856;
-			
-			// aapt resource value: 0x7f080087
-			public const int design_menu_item_action_area_stub = 2131230855;
-			
-			// aapt resource value: 0x7f080086
-			public const int design_menu_item_text = 2131230854;
-			
-			// aapt resource value: 0x7f080085
-			public const int design_navigation_view = 2131230853;
-			
-			// aapt resource value: 0x7f080012
-			public const int disableHome = 2131230738;
-			
-			// aapt resource value: 0x7f080066
-			public const int edit_query = 2131230822;
+			public const int activity_chooser_view_content = 2131230791;
 			
 			// aapt resource value: 0x7f080021
-			public const int end = 2131230753;
+			public const int add = 2131230753;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int end_padder = 2131230906;
+			// aapt resource value: 0x7f08005b
+			public const int alertTitle = 2131230811;
 			
-			// aapt resource value: 0x7f08002a
-			public const int enterAlways = 2131230762;
+			// aapt resource value: 0x7f080040
+			public const int all = 2131230784;
+			
+			// aapt resource value: 0x7f080026
+			public const int always = 2131230758;
+			
+			// aapt resource value: 0x7f080032
+			public const int auto = 2131230770;
+			
+			// aapt resource value: 0x7f08007a
+			public const int bb_bottom_bar_background_overlay = 2131230842;
+			
+			// aapt resource value: 0x7f080079
+			public const int bb_bottom_bar_background_view = 2131230841;
+			
+			// aapt resource value: 0x7f08007d
+			public const int bb_bottom_bar_icon = 2131230845;
+			
+			// aapt resource value: 0x7f08007b
+			public const int bb_bottom_bar_item_container = 2131230843;
+			
+			// aapt resource value: 0x7f080077
+			public const int bb_bottom_bar_outer_container = 2131230839;
+			
+			// aapt resource value: 0x7f080078
+			public const int bb_bottom_bar_shadow = 2131230840;
+			
+			// aapt resource value: 0x7f08007e
+			public const int bb_bottom_bar_title = 2131230846;
+			
+			// aapt resource value: 0x7f08007c
+			public const int bb_tablet_right_border = 2131230844;
+			
+			// aapt resource value: 0x7f080076
+			public const int bb_user_content_container = 2131230838;
+			
+			// aapt resource value: 0x7f080023
+			public const int beginning = 2131230755;
 			
 			// aapt resource value: 0x7f08002b
-			public const int enterAlwaysCollapsed = 2131230763;
+			public const int bottom = 2131230763;
 			
-			// aapt resource value: 0x7f08002c
-			public const int exitUntilCollapsed = 2131230764;
+			// aapt resource value: 0x7f08004e
+			public const int buttonPanel = 2131230798;
 			
-			// aapt resource value: 0x7f080045
-			public const int expand_activities_button = 2131230789;
-			
-			// aapt resource value: 0x7f08005a
-			public const int expanded_menu = 2131230810;
-			
-			// aapt resource value: 0x7f08003b
-			public const int fill = 2131230779;
-			
-			// aapt resource value: 0x7f08003c
-			public const int fill_horizontal = 2131230780;
+			// aapt resource value: 0x7f0800ab
+			public const int cancel_action = 2131230891;
 			
 			// aapt resource value: 0x7f080033
-			public const int fill_vertical = 2131230771;
+			public const int center = 2131230771;
+			
+			// aapt resource value: 0x7f080034
+			public const int center_horizontal = 2131230772;
+			
+			// aapt resource value: 0x7f080035
+			public const int center_vertical = 2131230773;
+			
+			// aapt resource value: 0x7f08005e
+			public const int checkbox = 2131230814;
+			
+			// aapt resource value: 0x7f0800b3
+			public const int chronometer = 2131230899;
+			
+			// aapt resource value: 0x7f08003c
+			public const int clip_horizontal = 2131230780;
+			
+			// aapt resource value: 0x7f08003d
+			public const int clip_vertical = 2131230781;
+			
+			// aapt resource value: 0x7f080027
+			public const int collapseActionView = 2131230759;
+			
+			// aapt resource value: 0x7f080081
+			public const int container = 2131230849;
+			
+			// aapt resource value: 0x7f080051
+			public const int contentPanel = 2131230801;
+			
+			// aapt resource value: 0x7f080082
+			public const int coordinator = 2131230850;
+			
+			// aapt resource value: 0x7f080058
+			public const int custom = 2131230808;
+			
+			// aapt resource value: 0x7f080057
+			public const int customPanel = 2131230807;
+			
+			// aapt resource value: 0x7f080065
+			public const int decor_content_parent = 2131230821;
+			
+			// aapt resource value: 0x7f08004a
+			public const int default_activity_button = 2131230794;
+			
+			// aapt resource value: 0x7f080084
+			public const int design_bottom_sheet = 2131230852;
+			
+			// aapt resource value: 0x7f08008b
+			public const int design_menu_item_action_area = 2131230859;
+			
+			// aapt resource value: 0x7f08008a
+			public const int design_menu_item_action_area_stub = 2131230858;
+			
+			// aapt resource value: 0x7f080089
+			public const int design_menu_item_text = 2131230857;
+			
+			// aapt resource value: 0x7f080088
+			public const int design_navigation_view = 2131230856;
+			
+			// aapt resource value: 0x7f080015
+			public const int disableHome = 2131230741;
+			
+			// aapt resource value: 0x7f080069
+			public const int edit_query = 2131230825;
+			
+			// aapt resource value: 0x7f080024
+			public const int end = 2131230756;
+			
+			// aapt resource value: 0x7f0800bd
+			public const int end_padder = 2131230909;
+			
+			// aapt resource value: 0x7f08002d
+			public const int enterAlways = 2131230765;
+			
+			// aapt resource value: 0x7f08002e
+			public const int enterAlwaysCollapsed = 2131230766;
+			
+			// aapt resource value: 0x7f08002f
+			public const int exitUntilCollapsed = 2131230767;
+			
+			// aapt resource value: 0x7f080048
+			public const int expand_activities_button = 2131230792;
+			
+			// aapt resource value: 0x7f08005d
+			public const int expanded_menu = 2131230813;
+			
+			// aapt resource value: 0x7f08003e
+			public const int fill = 2131230782;
 			
 			// aapt resource value: 0x7f08003f
-			public const int @fixed = 2131230783;
+			public const int fill_horizontal = 2131230783;
+			
+			// aapt resource value: 0x7f080036
+			public const int fill_vertical = 2131230774;
+			
+			// aapt resource value: 0x7f080042
+			public const int @fixed = 2131230786;
 			
 			// aapt resource value: 0x7f080005
 			public const int home = 2131230725;
 			
-			// aapt resource value: 0x7f080013
-			public const int homeAsUp = 2131230739;
+			// aapt resource value: 0x7f080016
+			public const int homeAsUp = 2131230742;
+			
+			// aapt resource value: 0x7f08004c
+			public const int icon = 2131230796;
+			
+			// aapt resource value: 0x7f0800b8
+			public const int icon_group = 2131230904;
+			
+			// aapt resource value: 0x7f080028
+			public const int ifRoom = 2131230760;
 			
 			// aapt resource value: 0x7f080049
-			public const int icon = 2131230793;
+			public const int image = 2131230793;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int icon_group = 2131230901;
-			
-			// aapt resource value: 0x7f080025
-			public const int ifRoom = 2131230757;
-			
-			// aapt resource value: 0x7f080046
-			public const int image = 2131230790;
-			
-			// aapt resource value: 0x7f0800b1
-			public const int info = 2131230897;
+			// aapt resource value: 0x7f0800b4
+			public const int info = 2131230900;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f08007d
-			public const int largeLabel = 2131230845;
-			
-			// aapt resource value: 0x7f080034
-			public const int left = 2131230772;
-			
-			// aapt resource value: 0x7f0800b6
-			public const int line1 = 2131230902;
-			
-			// aapt resource value: 0x7f0800b8
-			public const int line3 = 2131230904;
-			
-			// aapt resource value: 0x7f08000f
-			public const int listMode = 2131230735;
-			
-			// aapt resource value: 0x7f080048
-			public const int list_item = 2131230792;
-			
-			// aapt resource value: 0x7f0800be
-			public const int masked = 2131230910;
-			
-			// aapt resource value: 0x7f0800aa
-			public const int media_actions = 2131230890;
-			
-			// aapt resource value: 0x7f080022
-			public const int middle = 2131230754;
-			
-			// aapt resource value: 0x7f08003e
-			public const int mini = 2131230782;
-			
-			// aapt resource value: 0x7f080096
-			public const int mr_art = 2131230870;
-			
-			// aapt resource value: 0x7f08008b
-			public const int mr_chooser_list = 2131230859;
-			
-			// aapt resource value: 0x7f08008e
-			public const int mr_chooser_route_desc = 2131230862;
-			
-			// aapt resource value: 0x7f08008c
-			public const int mr_chooser_route_icon = 2131230860;
-			
-			// aapt resource value: 0x7f08008d
-			public const int mr_chooser_route_name = 2131230861;
-			
-			// aapt resource value: 0x7f08008a
-			public const int mr_chooser_title = 2131230858;
-			
-			// aapt resource value: 0x7f080093
-			public const int mr_close = 2131230867;
-			
-			// aapt resource value: 0x7f080099
-			public const int mr_control_divider = 2131230873;
-			
-			// aapt resource value: 0x7f08009f
-			public const int mr_control_playback_ctrl = 2131230879;
-			
-			// aapt resource value: 0x7f0800a2
-			public const int mr_control_subtitle = 2131230882;
-			
-			// aapt resource value: 0x7f0800a1
-			public const int mr_control_title = 2131230881;
-			
-			// aapt resource value: 0x7f0800a0
-			public const int mr_control_title_container = 2131230880;
-			
-			// aapt resource value: 0x7f080094
-			public const int mr_custom_control = 2131230868;
-			
-			// aapt resource value: 0x7f080095
-			public const int mr_default_control = 2131230869;
-			
-			// aapt resource value: 0x7f080090
-			public const int mr_dialog_area = 2131230864;
-			
-			// aapt resource value: 0x7f08008f
-			public const int mr_expandable_area = 2131230863;
-			
-			// aapt resource value: 0x7f0800a3
-			public const int mr_group_expand_collapse = 2131230883;
-			
-			// aapt resource value: 0x7f080097
-			public const int mr_media_main_control = 2131230871;
-			
-			// aapt resource value: 0x7f080092
-			public const int mr_name = 2131230866;
-			
-			// aapt resource value: 0x7f080098
-			public const int mr_playback_control = 2131230872;
-			
-			// aapt resource value: 0x7f080091
-			public const int mr_title_bar = 2131230865;
-			
-			// aapt resource value: 0x7f08009a
-			public const int mr_volume_control = 2131230874;
-			
-			// aapt resource value: 0x7f08009b
-			public const int mr_volume_group_list = 2131230875;
-			
-			// aapt resource value: 0x7f08009d
-			public const int mr_volume_item_icon = 2131230877;
-			
-			// aapt resource value: 0x7f08009e
-			public const int mr_volume_slider = 2131230878;
-			
-			// aapt resource value: 0x7f080019
-			public const int multiply = 2131230745;
-			
-			// aapt resource value: 0x7f080084
-			public const int navigation_header_container = 2131230852;
-			
-			// aapt resource value: 0x7f080026
-			public const int never = 2131230758;
-			
-			// aapt resource value: 0x7f080014
-			public const int none = 2131230740;
-			
-			// aapt resource value: 0x7f080010
-			public const int normal = 2131230736;
-			
-			// aapt resource value: 0x7f0800b3
-			public const int notification_background = 2131230899;
-			
-			// aapt resource value: 0x7f0800ad
-			public const int notification_main_column = 2131230893;
-			
-			// aapt resource value: 0x7f0800ac
-			public const int notification_main_column_container = 2131230892;
+			// aapt resource value: 0x7f080080
+			public const int largeLabel = 2131230848;
 			
 			// aapt resource value: 0x7f080037
-			public const int parallax = 2131230775;
+			public const int left = 2131230775;
 			
-			// aapt resource value: 0x7f08004d
-			public const int parentPanel = 2131230797;
+			// aapt resource value: 0x7f080010
+			public const int leftBar = 2131230736;
 			
-			// aapt resource value: 0x7f080038
-			public const int pin = 2131230776;
+			// aapt resource value: 0x7f0800b9
+			public const int line1 = 2131230905;
+			
+			// aapt resource value: 0x7f0800bb
+			public const int line3 = 2131230907;
+			
+			// aapt resource value: 0x7f080012
+			public const int listMode = 2131230738;
+			
+			// aapt resource value: 0x7f08004b
+			public const int list_item = 2131230795;
+			
+			// aapt resource value: 0x7f0800c1
+			public const int masked = 2131230913;
+			
+			// aapt resource value: 0x7f0800ad
+			public const int media_actions = 2131230893;
+			
+			// aapt resource value: 0x7f080025
+			public const int middle = 2131230757;
+			
+			// aapt resource value: 0x7f080041
+			public const int mini = 2131230785;
+			
+			// aapt resource value: 0x7f080099
+			public const int mr_art = 2131230873;
+			
+			// aapt resource value: 0x7f08008e
+			public const int mr_chooser_list = 2131230862;
+			
+			// aapt resource value: 0x7f080091
+			public const int mr_chooser_route_desc = 2131230865;
+			
+			// aapt resource value: 0x7f08008f
+			public const int mr_chooser_route_icon = 2131230863;
+			
+			// aapt resource value: 0x7f080090
+			public const int mr_chooser_route_name = 2131230864;
+			
+			// aapt resource value: 0x7f08008d
+			public const int mr_chooser_title = 2131230861;
+			
+			// aapt resource value: 0x7f080096
+			public const int mr_close = 2131230870;
+			
+			// aapt resource value: 0x7f08009c
+			public const int mr_control_divider = 2131230876;
+			
+			// aapt resource value: 0x7f0800a2
+			public const int mr_control_playback_ctrl = 2131230882;
+			
+			// aapt resource value: 0x7f0800a5
+			public const int mr_control_subtitle = 2131230885;
+			
+			// aapt resource value: 0x7f0800a4
+			public const int mr_control_title = 2131230884;
+			
+			// aapt resource value: 0x7f0800a3
+			public const int mr_control_title_container = 2131230883;
+			
+			// aapt resource value: 0x7f080097
+			public const int mr_custom_control = 2131230871;
+			
+			// aapt resource value: 0x7f080098
+			public const int mr_default_control = 2131230872;
+			
+			// aapt resource value: 0x7f080093
+			public const int mr_dialog_area = 2131230867;
+			
+			// aapt resource value: 0x7f080092
+			public const int mr_expandable_area = 2131230866;
+			
+			// aapt resource value: 0x7f0800a6
+			public const int mr_group_expand_collapse = 2131230886;
+			
+			// aapt resource value: 0x7f08009a
+			public const int mr_media_main_control = 2131230874;
+			
+			// aapt resource value: 0x7f080095
+			public const int mr_name = 2131230869;
+			
+			// aapt resource value: 0x7f08009b
+			public const int mr_playback_control = 2131230875;
+			
+			// aapt resource value: 0x7f080094
+			public const int mr_title_bar = 2131230868;
+			
+			// aapt resource value: 0x7f08009d
+			public const int mr_volume_control = 2131230877;
+			
+			// aapt resource value: 0x7f08009e
+			public const int mr_volume_group_list = 2131230878;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int mr_volume_item_icon = 2131230880;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int mr_volume_slider = 2131230881;
+			
+			// aapt resource value: 0x7f08001c
+			public const int multiply = 2131230748;
+			
+			// aapt resource value: 0x7f080087
+			public const int navigation_header_container = 2131230855;
+			
+			// aapt resource value: 0x7f080029
+			public const int never = 2131230761;
+			
+			// aapt resource value: 0x7f080017
+			public const int none = 2131230743;
+			
+			// aapt resource value: 0x7f080013
+			public const int normal = 2131230739;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int notification_background = 2131230902;
+			
+			// aapt resource value: 0x7f0800b0
+			public const int notification_main_column = 2131230896;
+			
+			// aapt resource value: 0x7f0800af
+			public const int notification_main_column_container = 2131230895;
+			
+			// aapt resource value: 0x7f08003a
+			public const int parallax = 2131230778;
+			
+			// aapt resource value: 0x7f080050
+			public const int parentPanel = 2131230800;
+			
+			// aapt resource value: 0x7f08003b
+			public const int pin = 2131230779;
 			
 			// aapt resource value: 0x7f080006
 			public const int progress_circular = 2131230726;
@@ -4954,140 +8444,146 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f080007
 			public const int progress_horizontal = 2131230727;
 			
-			// aapt resource value: 0x7f08005d
-			public const int radio = 2131230813;
+			// aapt resource value: 0x7f080060
+			public const int radio = 2131230816;
 			
-			// aapt resource value: 0x7f080035
-			public const int right = 2131230773;
+			// aapt resource value: 0x7f080038
+			public const int right = 2131230776;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int right_icon = 2131230898;
+			// aapt resource value: 0x7f080011
+			public const int rightBar = 2131230737;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int right_side = 2131230894;
+			// aapt resource value: 0x7f0800b5
+			public const int right_icon = 2131230901;
 			
-			// aapt resource value: 0x7f08001a
-			public const int screen = 2131230746;
+			// aapt resource value: 0x7f0800b1
+			public const int right_side = 2131230897;
 			
-			// aapt resource value: 0x7f08002d
-			public const int scroll = 2131230765;
+			// aapt resource value: 0x7f08001d
+			public const int screen = 2131230749;
+			
+			// aapt resource value: 0x7f080030
+			public const int scroll = 2131230768;
+			
+			// aapt resource value: 0x7f080056
+			public const int scrollIndicatorDown = 2131230806;
+			
+			// aapt resource value: 0x7f080052
+			public const int scrollIndicatorUp = 2131230802;
 			
 			// aapt resource value: 0x7f080053
-			public const int scrollIndicatorDown = 2131230803;
+			public const int scrollView = 2131230803;
 			
-			// aapt resource value: 0x7f08004f
-			public const int scrollIndicatorUp = 2131230799;
-			
-			// aapt resource value: 0x7f080050
-			public const int scrollView = 2131230800;
-			
-			// aapt resource value: 0x7f080040
-			public const int scrollable = 2131230784;
-			
-			// aapt resource value: 0x7f080068
-			public const int search_badge = 2131230824;
-			
-			// aapt resource value: 0x7f080067
-			public const int search_bar = 2131230823;
-			
-			// aapt resource value: 0x7f080069
-			public const int search_button = 2131230825;
-			
-			// aapt resource value: 0x7f08006e
-			public const int search_close_btn = 2131230830;
-			
-			// aapt resource value: 0x7f08006a
-			public const int search_edit_frame = 2131230826;
-			
-			// aapt resource value: 0x7f080070
-			public const int search_go_btn = 2131230832;
+			// aapt resource value: 0x7f080043
+			public const int scrollable = 2131230787;
 			
 			// aapt resource value: 0x7f08006b
-			public const int search_mag_icon = 2131230827;
+			public const int search_badge = 2131230827;
+			
+			// aapt resource value: 0x7f08006a
+			public const int search_bar = 2131230826;
 			
 			// aapt resource value: 0x7f08006c
-			public const int search_plate = 2131230828;
-			
-			// aapt resource value: 0x7f08006d
-			public const int search_src_text = 2131230829;
+			public const int search_button = 2131230828;
 			
 			// aapt resource value: 0x7f080071
-			public const int search_voice_btn = 2131230833;
+			public const int search_close_btn = 2131230833;
 			
-			// aapt resource value: 0x7f080072
-			public const int select_dialog_listview = 2131230834;
+			// aapt resource value: 0x7f08006d
+			public const int search_edit_frame = 2131230829;
 			
-			// aapt resource value: 0x7f08005c
-			public const int shortcut = 2131230812;
+			// aapt resource value: 0x7f080073
+			public const int search_go_btn = 2131230835;
 			
-			// aapt resource value: 0x7f080015
-			public const int showCustom = 2131230741;
+			// aapt resource value: 0x7f08006e
+			public const int search_mag_icon = 2131230830;
 			
-			// aapt resource value: 0x7f080016
-			public const int showHome = 2131230742;
+			// aapt resource value: 0x7f08006f
+			public const int search_plate = 2131230831;
 			
-			// aapt resource value: 0x7f080017
-			public const int showTitle = 2131230743;
+			// aapt resource value: 0x7f080070
+			public const int search_src_text = 2131230832;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int sliding_tabs = 2131230907;
+			// aapt resource value: 0x7f080074
+			public const int search_voice_btn = 2131230836;
 			
-			// aapt resource value: 0x7f08007c
-			public const int smallLabel = 2131230844;
+			// aapt resource value: 0x7f080075
+			public const int select_dialog_listview = 2131230837;
 			
-			// aapt resource value: 0x7f080083
-			public const int snackbar_action = 2131230851;
+			// aapt resource value: 0x7f08005f
+			public const int shortcut = 2131230815;
 			
-			// aapt resource value: 0x7f080082
-			public const int snackbar_text = 2131230850;
+			// aapt resource value: 0x7f080018
+			public const int showCustom = 2131230744;
 			
-			// aapt resource value: 0x7f08002e
-			public const int snap = 2131230766;
+			// aapt resource value: 0x7f080019
+			public const int showHome = 2131230745;
 			
-			// aapt resource value: 0x7f08004c
-			public const int spacer = 2131230796;
+			// aapt resource value: 0x7f08001a
+			public const int showTitle = 2131230746;
+			
+			// aapt resource value: 0x7f0800be
+			public const int sliding_tabs = 2131230910;
+			
+			// aapt resource value: 0x7f08007f
+			public const int smallLabel = 2131230847;
+			
+			// aapt resource value: 0x7f080086
+			public const int snackbar_action = 2131230854;
+			
+			// aapt resource value: 0x7f080085
+			public const int snackbar_text = 2131230853;
+			
+			// aapt resource value: 0x7f080031
+			public const int snap = 2131230769;
+			
+			// aapt resource value: 0x7f08004f
+			public const int spacer = 2131230799;
 			
 			// aapt resource value: 0x7f080008
 			public const int split_action_bar = 2131230728;
 			
-			// aapt resource value: 0x7f08001b
-			public const int src_atop = 2131230747;
+			// aapt resource value: 0x7f08001e
+			public const int src_atop = 2131230750;
 			
-			// aapt resource value: 0x7f08001c
-			public const int src_in = 2131230748;
+			// aapt resource value: 0x7f08001f
+			public const int src_in = 2131230751;
 			
-			// aapt resource value: 0x7f08001d
-			public const int src_over = 2131230749;
+			// aapt resource value: 0x7f080020
+			public const int src_over = 2131230752;
 			
-			// aapt resource value: 0x7f080036
-			public const int start = 2131230774;
+			// aapt resource value: 0x7f080039
+			public const int start = 2131230777;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int status_bar_latest_event_content = 2131230889;
+			// aapt resource value: 0x7f0800ac
+			public const int status_bar_latest_event_content = 2131230892;
 			
-			// aapt resource value: 0x7f08005e
-			public const int submenuarrow = 2131230814;
+			// aapt resource value: 0x7f080061
+			public const int submenuarrow = 2131230817;
 			
-			// aapt resource value: 0x7f08006f
-			public const int submit_area = 2131230831;
+			// aapt resource value: 0x7f080072
+			public const int submit_area = 2131230834;
 			
-			// aapt resource value: 0x7f080011
-			public const int tabMode = 2131230737;
+			// aapt resource value: 0x7f08000f
+			public const int swipetorefreshbar = 2131230735;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int text = 2131230905;
+			// aapt resource value: 0x7f080014
+			public const int tabMode = 2131230740;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int text2 = 2131230903;
+			// aapt resource value: 0x7f0800bc
+			public const int text = 2131230908;
 			
-			// aapt resource value: 0x7f080052
-			public const int textSpacerNoButtons = 2131230802;
+			// aapt resource value: 0x7f0800ba
+			public const int text2 = 2131230906;
 			
-			// aapt resource value: 0x7f080051
-			public const int textSpacerNoTitle = 2131230801;
+			// aapt resource value: 0x7f080055
+			public const int textSpacerNoButtons = 2131230805;
 			
-			// aapt resource value: 0x7f080089
-			public const int text_input_password_toggle = 2131230857;
+			// aapt resource value: 0x7f080054
+			public const int textSpacerNoTitle = 2131230804;
+			
+			// aapt resource value: 0x7f08008c
+			public const int text_input_password_toggle = 2131230860;
 			
 			// aapt resource value: 0x7f08000c
 			public const int textinput_counter = 2131230732;
@@ -5095,29 +8591,29 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f0800af
-			public const int time = 2131230895;
+			// aapt resource value: 0x7f0800b2
+			public const int time = 2131230898;
 			
-			// aapt resource value: 0x7f08004a
-			public const int title = 2131230794;
+			// aapt resource value: 0x7f08004d
+			public const int title = 2131230797;
+			
+			// aapt resource value: 0x7f08005c
+			public const int titleDividerNoCustom = 2131230812;
+			
+			// aapt resource value: 0x7f08005a
+			public const int title_template = 2131230810;
+			
+			// aapt resource value: 0x7f0800bf
+			public const int toolbar = 2131230911;
+			
+			// aapt resource value: 0x7f08002c
+			public const int top = 2131230764;
 			
 			// aapt resource value: 0x7f080059
-			public const int titleDividerNoCustom = 2131230809;
+			public const int topPanel = 2131230809;
 			
-			// aapt resource value: 0x7f080057
-			public const int title_template = 2131230807;
-			
-			// aapt resource value: 0x7f0800bc
-			public const int toolbar = 2131230908;
-			
-			// aapt resource value: 0x7f080029
-			public const int top = 2131230761;
-			
-			// aapt resource value: 0x7f080056
-			public const int topPanel = 2131230806;
-			
-			// aapt resource value: 0x7f080080
-			public const int touch_outside = 2131230848;
+			// aapt resource value: 0x7f080083
+			public const int touch_outside = 2131230851;
 			
 			// aapt resource value: 0x7f08000a
 			public const int transition_current_scene = 2131230730;
@@ -5128,23 +8624,23 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f080009
 			public const int up = 2131230729;
 			
-			// aapt resource value: 0x7f080018
-			public const int useLogo = 2131230744;
+			// aapt resource value: 0x7f08001b
+			public const int useLogo = 2131230747;
 			
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int visible = 2131230909;
+			// aapt resource value: 0x7f0800c0
+			public const int visible = 2131230912;
 			
-			// aapt resource value: 0x7f08009c
-			public const int volume_item_container = 2131230876;
+			// aapt resource value: 0x7f08009f
+			public const int volume_item_container = 2131230879;
 			
-			// aapt resource value: 0x7f080027
-			public const int withText = 2131230759;
+			// aapt resource value: 0x7f08002a
+			public const int withText = 2131230762;
 			
-			// aapt resource value: 0x7f08001f
-			public const int wrap_content = 2131230751;
+			// aapt resource value: 0x7f080022
+			public const int wrap_content = 2131230754;
 			
 			static Id()
 			{
@@ -5552,8 +9048,8 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f090027
 			public const int abc_toolbar_collapse_description = 2131296295;
 			
-			// aapt resource value: 0x7f09003e
-			public const int app_name = 2131296318;
+			// aapt resource value: 0x7f09003f
+			public const int app_name = 2131296319;
 			
 			// aapt resource value: 0x7f090036
 			public const int appbar_scrolling_view_behavior = 2131296310;
@@ -5563,6 +9059,9 @@ namespace ManagerGpsMap.Droid
 			
 			// aapt resource value: 0x7f090038
 			public const int character_counter_pattern = 2131296312;
+			
+			// aapt resource value: 0x7f09003e
+			public const int library_name = 2131296318;
 			
 			// aapt resource value: 0x7f090000
 			public const int mr_button_content_description = 2131296256;
@@ -5676,38 +9175,38 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0b0170
 			public const int Animation_Design_BottomSheetDialog = 2131427696;
 			
-			// aapt resource value: 0x7f0b0195
-			public const int AppCompatDialogStyle = 2131427733;
+			// aapt resource value: 0x7f0b019d
+			public const int AppCompatDialogStyle = 2131427741;
+			
+			// aapt resource value: 0x7f0b0199
+			public const int AppTheme = 2131427737;
+			
+			// aapt resource value: 0x7f0b019a
+			public const int AppTheme_Base = 2131427738;
+			
+			// aapt resource value: 0x7f0b0198
+			public const int BB_BottomBarBadge_Text = 2131427736;
 			
 			// aapt resource value: 0x7f0b0191
-			public const int AppTheme = 2131427729;
+			public const int BB_BottomBarItem = 2131427729;
 			
 			// aapt resource value: 0x7f0b0192
-			public const int AppTheme_Base = 2131427730;
+			public const int BB_BottomBarItem_Fixed = 2131427730;
 			
-			// aapt resource value: 0x7f0b0190
-			public const int BB_BottomBarBadge_Text = 2131427728;
+			// aapt resource value: 0x7f0b0194
+			public const int BB_BottomBarItem_Fixed_TitleAppearance = 2131427732;
 			
-			// aapt resource value: 0x7f0b0189
-			public const int BB_BottomBarItem = 2131427721;
+			// aapt resource value: 0x7f0b0195
+			public const int BB_BottomBarItem_Shifting = 2131427733;
 			
-			// aapt resource value: 0x7f0b018a
-			public const int BB_BottomBarItem_Fixed = 2131427722;
+			// aapt resource value: 0x7f0b0196
+			public const int BB_BottomBarItem_Shifting_TitleAppearance = 2131427734;
 			
-			// aapt resource value: 0x7f0b018c
-			public const int BB_BottomBarItem_Fixed_TitleAppearance = 2131427724;
+			// aapt resource value: 0x7f0b0197
+			public const int BB_BottomBarItem_Tablet = 2131427735;
 			
-			// aapt resource value: 0x7f0b018d
-			public const int BB_BottomBarItem_Shifting = 2131427725;
-			
-			// aapt resource value: 0x7f0b018e
-			public const int BB_BottomBarItem_Shifting_TitleAppearance = 2131427726;
-			
-			// aapt resource value: 0x7f0b018f
-			public const int BB_BottomBarItem_Tablet = 2131427727;
-			
-			// aapt resource value: 0x7f0b018b
-			public const int BB_BottomBarItem_TitleStyle = 2131427723;
+			// aapt resource value: 0x7f0b0193
+			public const int BB_BottomBarItem_TitleStyle = 2131427731;
 			
 			// aapt resource value: 0x7f0b00b2
 			public const int Base_AlertDialog_AppCompat = 2131427506;
@@ -6183,11 +9682,35 @@ namespace ManagerGpsMap.Droid
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
 			
-			// aapt resource value: 0x7f0b0193
-			public const int MainTheme = 2131427731;
+			// aapt resource value: 0x7f0b018e
+			public const int DarkPopupMenu = 2131427726;
 			
-			// aapt resource value: 0x7f0b0194
-			public const int MainTheme_Base = 2131427732;
+			// aapt resource value: 0x7f0b0190
+			public const int DarkPopupMenuTextAppearanceLarge = 2131427728;
+			
+			// aapt resource value: 0x7f0b018f
+			public const int DarkPopupMenuTextAppearanceSmall = 2131427727;
+			
+			// aapt resource value: 0x7f0b018d
+			public const int GridThemeDark = 2131427725;
+			
+			// aapt resource value: 0x7f0b0189
+			public const int GridThemeLight = 2131427721;
+			
+			// aapt resource value: 0x7f0b018a
+			public const int LightPopupMenu = 2131427722;
+			
+			// aapt resource value: 0x7f0b018c
+			public const int LightPopupMenuTextAppearanceLarge = 2131427724;
+			
+			// aapt resource value: 0x7f0b018b
+			public const int LightPopupMenuTextAppearanceSmall = 2131427723;
+			
+			// aapt resource value: 0x7f0b019b
+			public const int MainTheme = 2131427739;
+			
+			// aapt resource value: 0x7f0b019c
+			public const int MainTheme_Base = 2131427740;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int Platform_AppCompat = 2131427373;
