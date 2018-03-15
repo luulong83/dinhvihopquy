@@ -3,9 +3,8 @@
     x:Class="ManagerGpsMap.Views.TheoDoiPage"
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:dxGrid="clr-namespace:DevExpress.Mobile.DataGrid;assembly=DevExpress.Mobile.Grid.v17.1"
     xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;
-                        assembly=ImageCircle.Forms.Plugin.Abstractions">
+                              assembly=ImageCircle.Forms.Plugin.Abstractions">
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="TitleColor">#C2C3C9</Color>
@@ -29,18 +28,9 @@
         </ResourceDictionary>
     </ContentPage.Resources>
 
-    <!--<ContentPage.Content>
-        <ScrollView>
-            <StackLayout>
-                <dxGrid:GridControl x:Name="Grid" IsEnabled="False" RowHeight="25">
-                    <dxGrid:GridControl.Columns>
-                        <dxGrid:NumberColumn FieldName="STT" Caption="STT" Width="60"/>
-                        <dxGrid:TextColumn FieldName="ThongTin" Caption="Thông tin" Width="200"/>
-                        <dxGrid:NumberColumn FieldName="SoLuong" Caption="Số lượng"/>
-                    </dxGrid:GridControl.Columns>
-                </dxGrid:GridControl>
-            </StackLayout>
-        </ScrollView>
-    </ContentPage.Content>-->
+    <Label Text="Welcome to Xamarin Forms11111!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
 
 </ContentPage>

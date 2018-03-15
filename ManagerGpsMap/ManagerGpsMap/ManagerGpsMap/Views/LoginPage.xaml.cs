@@ -1,13 +1,7 @@
-﻿using ManagerGpsMap.Common.Constants;
-using ManagerGpsMap.Common.Helpers;
+﻿using ManagerGpsMap.Common.Helpers;
 using ManagerGpsMap.Services;
 using ManagerGpsMap.ViewModels;
-using System;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Linq;
-using System.Threading.Tasks;
-using WcfServicedinhvi.Data;
+using WcfServicedinhvi;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -21,7 +15,7 @@ namespace ManagerGpsMap.Views {
     }
 
     public LoginPage() {
-      vm = new LoginVM(new PageHelper(), new AuthService(new SoapService()));
+      vm = new LoginVM(new PageHelper(), new AuthService(new Service1()));
         InitializeComponent();
     }
 

@@ -4,8 +4,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:pages="clr-namespace:ManagerGpsMap.Views;assembly=ManagerGpsMap"
              x:Class="ManagerGpsMap.MainPage">
-    <TabbedPage.Children>
+    <!--<TabbedPage.Children>
         <pages:TheoDoiPage Icon="ic_about" />
         <pages:TheoDoiPage Icon="ic_contact" />
-    </TabbedPage.Children>
+    </TabbedPage.Children>-->
+
+    <!--Pages can be added as references or inline-->
+    <ContentPage Title="Home">
+        <StackLayout>
+            <Label Text="You are on Tab 2"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="5" />
+            <BoxView Color="Silver" VerticalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Notifications">
+        <StackLayout>
+            <Label Text="You are on Tab 3" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="5"  />
+            <BoxView Color="Lime" VerticalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage>
 </TabbedPage>

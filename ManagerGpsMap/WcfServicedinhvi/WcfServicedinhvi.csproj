@@ -50,8 +50,6 @@
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
     <Compile Include="Constants.cs" />
-    <Compile Include="Data\ISoapService.cs" />
-    <Compile Include="Data\SoapService.cs" />
     <Compile Include="IService1.cs" />
     <Compile Include="Models\login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

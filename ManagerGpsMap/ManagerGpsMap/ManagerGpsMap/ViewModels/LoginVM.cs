@@ -41,25 +41,25 @@ namespace ManagerGpsMap.ViewModels {
     }
     private async Task Login() {
       IsLoading = true;
-
+      login login;
       
       try {
-       // authData = await _authService.Login(new JiraCredential(_userName, _password));
+        login = await _authService.Login(_userName, _password);
       } catch(Exception e) {
         await _pageHelper.DisplayAlert("Login Error", e.Message, "OK");
         IsLoading = false;
         return;
       }
 
-      //if(authData != null) {
-       // await _jiraCredentialHelper.StoreCredential(_userName, authData.Token);
+      if(login != null) {
+      // await _jiraCredentialHelper.StoreCredential(_userName, authData.Token);
 
       await _pageHelper.PushAsync(new MainPage());
 
        return;
-     // }
+      }
 
-      //IsLoading = false;
+      IsLoading = false;
       await _pageHelper.DisplayAlert("Login Error", "Login failed", "OK");
     }
   }

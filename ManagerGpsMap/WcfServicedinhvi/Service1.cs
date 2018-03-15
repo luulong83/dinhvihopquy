@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using System.Threading.Tasks;
 using WcfServicedinhvi.Models;
 
 namespace WcfServicedinhvi {
@@ -23,17 +24,17 @@ namespace WcfServicedinhvi {
     /// 	User_group as string data
     /// 	Kpi as string data
     /// </returns>
-    public login fn_login(string username,string password) {
-      var model= wcf.fn_login(username,password);
-      return new login() {
-        Kpi = model.Kpi,
-        Group_id = model.Group_id,
-        User_group = model.User_group,
-        Status = model.Status,
-        Message = model.Message,
-        username = model.Username
-      };
-    }
+    //public async Task<login> fn_login(string username,string password) {
+    //  var model= async wcf.fn_login(username,password);
+    //  return new login() {
+    //    Kpi = model.Kpi,
+    //    Group_id = model.Group_id,
+    //    User_group = model.User_group,
+    //    Status = model.Status,
+    //    Message = model.Message,
+    //    username = model.Username
+    //  };
+    //}
 
     public string GetData(int value) {
       return string.Format("You entered: {0}", value);
@@ -47,6 +48,21 @@ namespace WcfServicedinhvi {
         composite.StringValue += "Suffix";
       }
       return composite;
+    }
+
+    public login fn_login(string username, string password) {
+      var model = wcf.fn_login(username, password);
+
+      return new login() {
+        Kpi = model.Kpi,
+        Group_id = model.Group_id,
+        User_group = model.User_group,
+        Status = model.Status,
+        Message = model.Message,
+        username = model.Username
+      };
+
+      //throw new NotImplementedException();
     }
   }
 }
