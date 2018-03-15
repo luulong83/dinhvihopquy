@@ -18,7 +18,7 @@ namespace ManagerGpsMap.Services
     }
 
     public Task<login> Login(string username, string password) {
-      return _soapService.fn_login(username,password);
+      return Task.FromResult(_soapService.fn_login(username,password));
     }
   }
 }

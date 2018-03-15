@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WcfServicedinhvi.ServiceRefGps {
+namespace WcfServicedinhvi.ServiceReference1 {
     using System.Runtime.Serialization;
     using System;
     
@@ -209,7 +209,7 @@ namespace WcfServicedinhvi.ServiceRefGps {
         private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private WcfServicedinhvi.ServiceRefGps.dto_theodoitructuyen[] List_theodoiField;
+        private WcfServicedinhvi.ServiceReference1.dto_theodoitructuyen[] List_theodoiField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private string MessageField;
@@ -228,7 +228,7 @@ namespace WcfServicedinhvi.ServiceRefGps {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public WcfServicedinhvi.ServiceRefGps.dto_theodoitructuyen[] List_theodoi {
+        public WcfServicedinhvi.ServiceReference1.dto_theodoitructuyen[] List_theodoi {
             get {
                 return this.List_theodoiField;
             }
@@ -722,7 +722,7 @@ namespace WcfServicedinhvi.ServiceRefGps {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceRefGps.TTASIService")]
+    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReference1.TTASIService")]
     public interface TTASIService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/GetData", ReplyAction="http://tempuri.org/TTASIService/GetDataResponse")]
@@ -732,31 +732,31 @@ namespace WcfServicedinhvi.ServiceRefGps {
         System.Threading.Tasks.Task<string> GetDataAsync(int value);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/GetDataUsingDataContract", ReplyAction="http://tempuri.org/TTASIService/GetDataUsingDataContractResponse")]
-        WcfServicedinhvi.ServiceRefGps.CompositeType GetDataUsingDataContract(WcfServicedinhvi.ServiceRefGps.CompositeType composite);
+        WcfServicedinhvi.ServiceReference1.CompositeType GetDataUsingDataContract(WcfServicedinhvi.ServiceReference1.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/GetDataUsingDataContract", ReplyAction="http://tempuri.org/TTASIService/GetDataUsingDataContractResponse")]
-        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.CompositeType> GetDataUsingDataContractAsync(WcfServicedinhvi.ServiceRefGps.CompositeType composite);
+        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.CompositeType> GetDataUsingDataContractAsync(WcfServicedinhvi.ServiceReference1.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/fn_login", ReplyAction="http://tempuri.org/TTASIService/fn_loginResponse")]
-        WcfServicedinhvi.ServiceRefGps.Resp_Login fn_login(string username, string password);
+        WcfServicedinhvi.ServiceReference1.Resp_Login fn_login(string username, string password);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/fn_login", ReplyAction="http://tempuri.org/TTASIService/fn_loginResponse")]
-        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.Resp_Login> fn_loginAsync(string username, string password);
+        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.Resp_Login> fn_loginAsync(string username, string password);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/fn_theodoitructuyen", ReplyAction="http://tempuri.org/TTASIService/fn_theodoitructuyenResponse")]
-        WcfServicedinhvi.ServiceRefGps.Resp_Theodoitructuyen fn_theodoitructuyen(string username);
+        WcfServicedinhvi.ServiceReference1.Resp_Theodoitructuyen fn_theodoitructuyen(string username);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/TTASIService/fn_theodoitructuyen", ReplyAction="http://tempuri.org/TTASIService/fn_theodoitructuyenResponse")]
-        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.Resp_Theodoitructuyen> fn_theodoitructuyenAsync(string username);
+        System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.Resp_Theodoitructuyen> fn_theodoitructuyenAsync(string username);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface TTASIServiceChannel : WcfServicedinhvi.ServiceRefGps.TTASIService, System.ServiceModel.IClientChannel {
+    public interface TTASIServiceChannel : WcfServicedinhvi.ServiceReference1.TTASIService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class TTASIServiceClient : System.ServiceModel.ClientBase<WcfServicedinhvi.ServiceRefGps.TTASIService>, WcfServicedinhvi.ServiceRefGps.TTASIService {
+    public partial class TTASIServiceClient : System.ServiceModel.ClientBase<WcfServicedinhvi.ServiceReference1.TTASIService>, WcfServicedinhvi.ServiceReference1.TTASIService {
         
         public TTASIServiceClient() {
         }
@@ -785,27 +785,27 @@ namespace WcfServicedinhvi.ServiceRefGps {
             return base.Channel.GetDataAsync(value);
         }
         
-        public WcfServicedinhvi.ServiceRefGps.CompositeType GetDataUsingDataContract(WcfServicedinhvi.ServiceRefGps.CompositeType composite) {
+        public WcfServicedinhvi.ServiceReference1.CompositeType GetDataUsingDataContract(WcfServicedinhvi.ServiceReference1.CompositeType composite) {
             return base.Channel.GetDataUsingDataContract(composite);
         }
         
-        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.CompositeType> GetDataUsingDataContractAsync(WcfServicedinhvi.ServiceRefGps.CompositeType composite) {
+        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.CompositeType> GetDataUsingDataContractAsync(WcfServicedinhvi.ServiceReference1.CompositeType composite) {
             return base.Channel.GetDataUsingDataContractAsync(composite);
         }
         
-        public WcfServicedinhvi.ServiceRefGps.Resp_Login fn_login(string username, string password) {
+        public WcfServicedinhvi.ServiceReference1.Resp_Login fn_login(string username, string password) {
             return base.Channel.fn_login(username, password);
         }
         
-        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.Resp_Login> fn_loginAsync(string username, string password) {
+        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.Resp_Login> fn_loginAsync(string username, string password) {
             return base.Channel.fn_loginAsync(username, password);
         }
         
-        public WcfServicedinhvi.ServiceRefGps.Resp_Theodoitructuyen fn_theodoitructuyen(string username) {
+        public WcfServicedinhvi.ServiceReference1.Resp_Theodoitructuyen fn_theodoitructuyen(string username) {
             return base.Channel.fn_theodoitructuyen(username);
         }
         
-        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceRefGps.Resp_Theodoitructuyen> fn_theodoitructuyenAsync(string username) {
+        public System.Threading.Tasks.Task<WcfServicedinhvi.ServiceReference1.Resp_Theodoitructuyen> fn_theodoitructuyenAsync(string username) {
             return base.Channel.fn_theodoitructuyenAsync(username);
         }
     }

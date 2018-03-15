@@ -44,7 +44,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\ServiceRefGps\Reference.cs">
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -57,26 +57,26 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Connected Services\ServiceRefGps\TTASService.wsdl" />
-    <None Include="Connected Services\ServiceRefGps\TTASService.xsd">
+    <None Include="Connected Services\ServiceReference1\TTASService.wsdl" />
+    <None Include="Connected Services\ServiceReference1\TTASService.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\ServiceRefGps\TTASService1.xsd">
+    <None Include="Connected Services\ServiceReference1\TTASService1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\ServiceRefGps\TTASService2.xsd">
+    <None Include="Connected Services\ServiceReference1\TTASService2.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\ServiceRefGps\TTASService3.xsd">
+    <None Include="Connected Services\ServiceReference1\TTASService3.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\ServiceRefGps\WcfServicedinhvi.ServiceRefGps.CompositeType.datasource">
+    <None Include="Connected Services\ServiceReference1\WcfServicedinhvi.ServiceReference1.CompositeType.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
-    <None Include="Connected Services\ServiceRefGps\WcfServicedinhvi.ServiceRefGps.Resp_Login.datasource">
+    <None Include="Connected Services\ServiceReference1\WcfServicedinhvi.ServiceReference1.Resp_Login.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
-    <None Include="Connected Services\ServiceRefGps\WcfServicedinhvi.ServiceRefGps.Resp_Theodoitructuyen.datasource">
+    <None Include="Connected Services\ServiceReference1\WcfServicedinhvi.ServiceReference1.Resp_Theodoitructuyen.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
   </ItemGroup>
@@ -84,19 +84,19 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\ServiceRefGps\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\ServiceRefGps\TTASService.disco" />
+    <None Include="Connected Services\ServiceReference1\TTASService.disco" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\ServiceRefGps\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\ServiceRefGps\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\ServiceRefGps\Reference.svcmap">
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>

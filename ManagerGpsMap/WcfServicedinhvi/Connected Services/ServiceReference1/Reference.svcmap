@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d53f8e15-8c6e-444c-aa3d-4017432ca0ed" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://dev.dinhvihopquy.com/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TTASService.xsd" MetadataType="Schema" ID="68c5a957-1fa9-4cb5-a198-1be501237734" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?xsd=xsd3" />
+    <MetadataFile FileName="TTASService1.xsd" MetadataType="Schema" ID="ef24d833-bf1a-4ef5-9442-9d91d7606a63" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TTASService.disco" MetadataType="Disco" ID="0166107c-0012-4646-bec9-f927dcf6bc2a" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?disco" />
+    <MetadataFile FileName="TTASService.wsdl" MetadataType="Wsdl" ID="9ca34ef1-80dc-4a09-9b48-ab36a4a7971b" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?wsdl" />
+    <MetadataFile FileName="TTASService2.xsd" MetadataType="Schema" ID="a2f2dd6d-94b4-4142-b549-e7e1a19472ad" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TTASService3.xsd" MetadataType="Schema" ID="ef527f31-4655-4d45-9cfc-835e0e299d0b" SourceId="1" SourceUrl="http://dev.dinhvihopquy.com/TTASService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
